@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_name,product,category,quantity,unit_price,discount_pct,payment_method,status,region
+PED-000001,2026-02-20,C0073,Mariana Dias,Estante modular,Móveis,4,774.20,10,Boleto,Concluída,Centro-Oeste
+PED-000002,2026-02-04,C0155,Olivia Martins,Mouse sem fio,Acessórios,2,130.29,0,Transferência,Concluída,Nordeste
+PED-000003,2026-08-11,C0169,Isabela Mendes,Smartphone X,Eletrônicos,4,2817.90,10,Transferência,Concluída,Centro-Oeste
+PED-000004,2026-01-04,C0118,Sérgio Gomes,Notebook Essential,Eletrônicos,2,2918.90,10,Transferência,Concluída,Sul
+PED-000005,2026-02-14,C0154,Nicolas Martins,Smartphone X,Eletrônicos,1,2845.80,10,Pix,Concluída,Nordeste
+PED-000006,2025-03-09,C0084,Daniel Ferreira,Suporte para notebook,Acessórios,1,194.67,0,Pix,Concluída,Sudeste
+PED-000007,2026-01-06,C0178,Sérgio Mendes,Monitor 27,Eletrônicos,3,1519.80,10,Pix,Concluída,Nordeste
+PED-000008,2025-10-15,C0017,Renata Almeida,Headset Bluetooth,Acessórios,2,276.21,5,Boleto,Concluída,Centro-Oeste
+PED-000009,2025-09-24,C0133,Mariana Lima,Gaveteiro compacto,Móveis,1,454.93,0,Transferência,Concluída,Sul
+PED-000010,2025-02-21,C0085,Elisa Ferreira,Monitor 27,Eletrônicos,3,1519.80,0,Boleto,Concluída,Sudeste
+PED-000011,2025-11-12,C0121,Ana Lima,Mouse sem fio,Acessórios,2,131.58,10,Transferência,Em processamento,Centro-Oeste
+PED-000012,2026-07-15,C0131,Karen Lima,Notebook Pro,Eletrônicos,1,4375.80,0,Pix,Concluída,Sudeste
+PED-000013,2026-08-22,C0020,Vinícius Almeida,Smartphone X,Eletrônicos,1,2762.10,5,Transferência,Concluída,Sudeste
+PED-000014,2025-06-25,C0034,Nicolas Barbosa,Suporte para notebook,Acessórios,4,190.89,0,Pix,Concluída,Sul
+PED-000015,2026-03-03,C0146,Felipe Martins,Impressora Laser,Eletrônicos,1,1706.90,0,Boleto,Concluída,Sul
+PED-000016,2025-01-21,C0062,Bruno Dias,Smartphone X,Eletrônicos,4,2845.80,15,Pix,Concluída,Sudeste
+PED-000017,2025-09-08,C0082,Bruno Ferreira,Notebook Essential,Eletrônicos,1,2947.80,5,Cartão,Concluída,Sul
+PED-000018,2025-05-20,C0158,Sérgio Martins,Teclado mecânico,Acessórios,1,410.97,5,Transferência,Concluída,Nordeste
+PED-000019,2026-05-29,C0114,Nicolas Gomes,Headset Bluetooth,Acessórios,4,284.58,0,Cartão,Concluída,Centro-Oeste
+PED-000020,2025-08-12,C0092,Lucas Ferreira,Impressora Laser,Eletrônicos,2,1740.70,0,Pix,Concluída,Nordeste
+PED-000021,2026-03-22,C0124,Daniel Lima,Cadeira ergonômica,Móveis,1,1431.70,0,Pix,Concluída,Nordeste
+PED-000022,2025-06-26,C0089,Isabela Ferreira,Mesa para escritório,Móveis,4,1009.80,0,Boleto,Concluída,Centro-Oeste
+PED-000023,2026-04-05,C0158,Sérgio Martins,Notebook Essential,Eletrônicos,2,2976.70,0,Transferência,Concluída,Norte
+PED-000024,2026-08-11,C0124,Daniel Lima,Teclado mecânico,Acessórios,4,399.00,5,Cartão,Concluída,Sul
+PED-000025,2026-08-08,C0017,Renata Almeida,Mesa para escritório,Móveis,4,980.10,0,Boleto,Concluída,Norte
+PED-000026,2026-07-07,C0061,Ana Dias,Smartphone X,Eletrônicos,2,2734.20,0,Transferência,Concluída,Sul
+PED-000027,2025-08-01,C0154,Nicolas Martins,Mesa para escritório,Móveis,1,999.90,5,Cartão,Cancelada,Centro-Oeste
+PED-000028,2025-11-20,C0101,Ana Gomes,Webcam Full HD,Acessórios,4,319.00,0,Transferência,Pendente,Norte
+PED-000029,2026-04-01,C0104,Daniel Gomes,Notebook Essential,Eletrônicos,3,2947.80,10,Boleto,Concluída,Centro-Oeste
+PED-000030,2026-06-02,C0036,Paulo Barbosa,Mouse sem fio,Acessórios,3,127.71,15,Pix,Concluída,Sudeste
+PED-000031,2026-06-27,C0006,Felipe Almeida,Impressora Laser,Eletrônicos,2,1706.90,0,Boleto,Concluída,Sudeste
+PED-000032,2025-02-18,C0096,Paulo Ferreira,Notebook Pro,Eletrônicos,3,4247.10,0,Boleto,Concluída,Norte
+PED-000033,2026-08-27,C0005,Elisa Almeida,Mesa para escritório,Móveis,1,1009.80,0,Pix,Em processamento,Sudeste
+PED-000034,2025-01-19,C0098,Sérgio Ferreira,Mesa para escritório,Móveis,4,1019.70,5,Pix,Concluída,Centro-Oeste
+PED-000035,2025-07-06,C0010,João Almeida,Tablet Plus,Eletrônicos,2,2161.40,5,Boleto,Concluída,Centro-Oeste
+PED-000036,2026-05-23,C0136,Paulo Lima,Impressora Laser,Eletrônicos,2,1706.90,0,Transferência,Concluída,Nordeste
+PED-000037,2025-10-22,C0118,Sérgio Gomes,Headset Bluetooth,Acessórios,3,284.58,10,Cartão,Concluída,Sudeste
+PED-000038,2025-04-23,C0109,Isabela Gomes,Impressora Laser,Eletrônicos,4,1706.90,0,Boleto,Concluída,Nordeste
+PED-000039,2025-04-25,C0029,Isabela Barbosa,Estante modular,Móveis,2,766.30,10,Pix,Cancelada,Sul
+PED-000040,2026-01-19,C0014,Nicolas Almeida,Mesa para escritório,Móveis,4,980.10,0,Cartão,Em processamento,Sul
+PED-000041,2025-05-28,C0099,Tatiana Ferreira,Estante modular,Móveis,4,797.90,0,Pix,Concluída,Sul
+PED-000042,2025-02-28,C0113,Mariana Gomes,Webcam Full HD,Acessórios,1,312.62,0,Transferência,Concluída,Sul
+PED-000043,2025-07-24,C0081,Ana Ferreira,Smartphone X,Eletrônicos,2,2817.90,0,Pix,Concluída,Centro-Oeste
+PED-000044,2025-10-23,C0140,Vinícius Lima,Estante modular,Móveis,2,790.00,5,Boleto,Cancelada,Centro-Oeste
+PED-000045,2026-03-03,C0168,Hugo Mendes,Gaveteiro compacto,Móveis,4,483.07,10,Cartão,Concluída,Norte
+PED-000046,2026-04-23,C0095,Olivia Ferreira,Cadeira ergonômica,Móveis,2,1417.80,0,Pix,Concluída,Sudeste
+PED-000047,2025-01-21,C0082,Bruno Ferreira,Estante modular,Móveis,4,782.10,5,Boleto,Concluída,Norte
+PED-000048,2025-09-29,C0012,Lucas Almeida,Notebook Pro,Eletrônicos,2,4290.00,0,Boleto,Cancelada,Centro-Oeste
+PED-000049,2026-05-23,C0134,Nicolas Lima,Smartphone X,Eletrônicos,3,2790.00,0,Cartão,Concluída,Nordeste
+PED-000050,2025-08-27,C0129,Isabela Lima,Mouse sem fio,Acessórios,1,129.00,0,Cartão,Em processamento,Sul
+PED-000051,2026-06-20,C0168,Hugo Mendes,Cadeira ergonômica,Móveis,2,1390.00,10,Transferência,Cancelada,Centro-Oeste
+PED-000052,2025-01-03,C0110,João Gomes,Smartphone X,Eletrônicos,4,2706.30,10,Cartão,Concluída,Sul
+PED-000053,2025-07-14,C0106,Felipe Gomes,Smartphone X,Eletrônicos,3,2706.30,0,Pix,Cancelada,Centro-Oeste
+PED-000054,2026-06-11,C0164,Daniel Mendes,Suporte para notebook,Acessórios,3,187.11,5,Pix,Concluída,Sul
+PED-000055,2025-02-21,C0170,João Mendes,Notebook Pro,Eletrônicos,3,4418.70,0,Transferência,Concluída,Sul
+PED-000056,2025-03-28,C0106,Felipe Gomes,Impressora Laser,Eletrônicos,3,1673.10,5,Transferência,Concluída,Centro-Oeste
+PED-000057,2026-08-07,C0033,Mariana Barbosa,Cadeira ergonômica,Móveis,1,1362.20,0,Boleto,Concluída,Centro-Oeste
+PED-000058,2025-11-17,C0014,Nicolas Almeida,Webcam Full HD,Acessórios,3,309.43,0,Pix,Concluída,Nordeste
+PED-000059,2025-08-12,C0091,Karen Ferreira,Suporte para notebook,Acessórios,2,185.22,0,Pix,Concluída,Sul
+PED-000060,2025-05-13,C0021,Ana Barbosa,Notebook Essential,Eletrônicos,2,2976.70,5,Transferência,Concluída,Norte
+PED-000061,2026-04-21,C0148,Hugo Martins,Mesa para escritório,Móveis,4,970.20,0,Transferência,Cancelada,Nordeste
+PED-000062,2025-06-04,C0174,Nicolas Mendes,Notebook Pro,Eletrônicos,3,4418.70,0,Boleto,Concluída,Norte
+PED-000063,2025-05-09,C0073,Mariana Dias,Notebook Pro,Eletrônicos,1,4247.10,10,Cartão,Concluída,Sudeste
+PED-000064,2026-01-15,C0167,Gabriela Mendes,Notebook Essential,Eletrônicos,1,2832.20,0,Boleto,Concluída,Centro-Oeste
+PED-000065,2025-04-04,C0083,Carla Ferreira,Cadeira ergonômica,Móveis,2,1348.30,15,Cartão,Concluída,Norte
+PED-000066,2026-08-16,C0139,Tatiana Lima,Smartphone X,Eletrônicos,3,2706.30,15,Boleto,Concluída,Sudeste
+PED-000067,2025-08-19,C0013,Mariana Almeida,Monitor 27,Eletrônicos,2,1490.00,15,Cartão,Concluída,Sudeste
+PED-000068,2026-05-19,C0127,Gabriela Lima,Mouse sem fio,Acessórios,1,126.42,0,Boleto,Concluída,Norte
+PED-000069,2025-10-05,C0094,Nicolas Ferreira,Mouse sem fio,Acessórios,2,132.87,5,Transferência,Concluída,Sul
+PED-000070,2025-04-22,C0164,Daniel Mendes,Gaveteiro compacto,Móveis,4,483.07,0,Pix,Concluída,Nordeste
+PED-000071,2025-04-17,C0088,Hugo Ferreira,Headset Bluetooth,Acessórios,4,279.00,10,Cartão,Concluída,Centro-Oeste
+PED-000072,2025-03-24,C0088,Hugo Ferreira,Mouse sem fio,Acessórios,3,127.71,10,Pix,Concluída,Centro-Oeste
+PED-000073,2026-05-12,C0085,Elisa Ferreira,Estante modular,Móveis,4,805.80,0,Transferência,Concluída,Sul
+PED-000074,2025-12-21,C0171,Karen Mendes,Teclado mecânico,Acessórios,1,406.98,0,Pix,Concluída,Sul
+PED-000075,2025-08-15,C0095,Olivia Ferreira,Webcam Full HD,Acessórios,1,312.62,0,Cartão,Cancelada,Sul
+PED-000076,2025-12-07,C0180,Vinícius Mendes,Smartphone X,Eletrônicos,4,2734.20,10,Cartão,Concluída,Nordeste
+PED-000077,2026-02-10,C0134,Nicolas Lima,Monitor 27,Eletrônicos,2,1475.10,5,Pix,Concluída,Centro-Oeste
+PED-000078,2025-02-14,C0041,Ana Costa,Suporte para notebook,Acessórios,3,190.89,5,Pix,Concluída,Sudeste
+PED-000079,2025-04-10,C0048,Hugo Costa,Smartphone X,Eletrônicos,4,2706.30,0,Transferência,Concluída,Sudeste
+PED-000080,2025-03-03,C0143,Carla Martins,Estante modular,Móveis,2,813.70,10,Transferência,Cancelada,Centro-Oeste
+PED-000081,2026-04-16,C0107,Gabriela Gomes,Notebook Pro,Eletrônicos,1,4290.00,0,Pix,Cancelada,Centro-Oeste
+PED-000082,2025-07-12,C0114,Nicolas Gomes,Webcam Full HD,Acessórios,2,312.62,5,Pix,Cancelada,Centro-Oeste
+PED-000083,2025-09-11,C0027,Gabriela Barbosa,Mesa para escritório,Móveis,1,1009.80,10,Boleto,Concluída,Centro-Oeste
+PED-000084,2026-09-01,C0115,Olivia Gomes,Notebook Essential,Eletrônicos,1,2918.90,0,Transferência,Concluída,Sul
+PED-000085,2026-03-31,C0180,Vinícius Mendes,Impressora Laser,Eletrônicos,2,1723.80,0,Boleto,Concluída,Sudeste
+PED-000086,2025-11-18,C0099,Tatiana Ferreira,Mouse sem fio,Acessórios,2,131.58,5,Pix,Concluída,Sul
+PED-000087,2025-02-24,C0001,Ana Almeida,Tablet Plus,Eletrônicos,4,2097.20,0,Transferência,Concluída,Sul
+PED-000088,2025-05-31,C0094,Nicolas Ferreira,Smartphone X,Eletrônicos,1,2790.00,5,Boleto,Concluída,Sul
+PED-000089,2025-12-15,C0109,Isabela Gomes,Headset Bluetooth,Acessórios,3,279.00,5,Transferência,Concluída,Norte
+PED-000090,2026-07-01,C0017,Renata Almeida,Webcam Full HD,Acessórios,2,312.62,0,Pix,Concluída,Norte
+PED-000091,2026-02-01,C0057,Renata Costa,Monitor 27,Eletrônicos,4,1504.90,15,Pix,Concluída,Sul
+PED-000092,2026-03-10,C0017,Renata Almeida,Teclado mecânico,Acessórios,1,406.98,0,Pix,Concluída,Sul
+PED-000093,2025-12-30,C0066,Felipe Dias,Webcam Full HD,Acessórios,4,325.38,0,Boleto,Concluída,Centro-Oeste
+PED-000094,2025-05-30,C0002,Bruno Almeida,Headset Bluetooth,Acessórios,3,281.79,0,Pix,Concluída,Sudeste
+PED-000095,2026-04-02,C0053,Mariana Costa,Smartphone X,Eletrônicos,1,2762.10,0,Transferência,Concluída,Norte
+PED-000096,2025-10-14,C0110,João Gomes,Cadeira ergonômica,Móveis,4,1348.30,5,Pix,Concluída,Norte
+PED-000097,2026-05-04,C0081,Ana Ferreira,Monitor 27,Eletrônicos,3,1504.90,0,Cartão,Concluída,Sudeste
+PED-000098,2025-11-12,C0149,Isabela Martins,Notebook Essential,Eletrônicos,1,2976.70,15,Cartão,Cancelada,Centro-Oeste
+PED-000099,2025-12-12,C0097,Renata Ferreira,Gaveteiro compacto,Móveis,2,454.93,0,Cartão,Concluída,Sul
+PED-000100,2025-05-13,C0099,Tatiana Ferreira,Teclado mecânico,Acessórios,3,406.98,10,Transferência,Concluída,Centro-Oeste
+PED-000101,2025-10-26,C0072,Lucas Dias,Notebook Essential,Eletrônicos,4,2890.00,5,Cartão,Concluída,Sudeste
+PED-000102,2025-04-14,C0050,João Costa,Teclado mecânico,Acessórios,1,387.03,15,Transferência,Concluída,Nordeste
+PED-000103,2026-03-06,C0086,Felipe Ferreira,Teclado mecânico,Acessórios,2,387.03,15,Boleto,Concluída,Norte
+PED-000104,2025-05-01,C0084,Daniel Ferreira,Mesa para escritório,Móveis,1,1009.80,5,Boleto,Concluída,Sul
+PED-000105,2026-04-15,C0145,Elisa Martins,Estante modular,Móveis,2,797.90,5,Boleto,Concluída,Norte
+PED-000106,2026-05-15,C0002,Bruno Almeida,Mouse sem fio,Acessórios,3,132.87,0,Transferência,Cancelada,Nordeste
+PED-000107,2025-03-24,C0140,Vinícius Lima,Cadeira ergonômica,Móveis,3,1390.00,5,Boleto,Concluída,Nordeste
+PED-000108,2025-08-11,C0159,Tatiana Martins,Mesa para escritório,Móveis,1,970.20,0,Pix,Concluída,Centro-Oeste
+PED-000109,2025-04-10,C0153,Mariana Martins,Gaveteiro compacto,Móveis,3,478.38,10,Cartão,Concluída,Sul
+PED-000110,2025-11-19,C0007,Gabriela Almeida,Impressora Laser,Eletrônicos,1,1656.20,0,Pix,Em processamento,Nordeste
+PED-000111,2025-03-19,C0073,Mariana Dias,Headset Bluetooth,Acessórios,3,287.37,0,Transferência,Concluída,Nordeste
+PED-000112,2025-08-14,C0029,Isabela Barbosa,Webcam Full HD,Acessórios,4,309.43,10,Cartão,Concluída,Nordeste
+PED-000113,2025-12-30,C0088,Hugo Ferreira,Cadeira ergonômica,Móveis,4,1376.10,0,Pix,Concluída,Nordeste
+PED-000114,2026-01-21,C0106,Felipe Gomes,Gaveteiro compacto,Móveis,1,478.38,10,Pix,Concluída,Nordeste
+PED-000115,2026-03-28,C0021,Ana Barbosa,Smartphone X,Eletrônicos,3,2790.00,0,Transferência,Concluída,Sudeste
+PED-000116,2025-05-26,C0119,Tatiana Gomes,Cadeira ergonômica,Móveis,1,1390.00,5,Boleto,Concluída,Centro-Oeste
+PED-000117,2025-06-26,C0040,Vinícius Barbosa,Notebook Essential,Eletrônicos,1,2890.00,0,Transferência,Concluída,Nordeste
+PED-000118,2026-09-13,C0023,Carla Barbosa,Teclado mecânico,Acessórios,4,395.01,0,Cartão,Concluída,Sul
+PED-000119,2025-08-11,C0085,Elisa Ferreira,Webcam Full HD,Acessórios,4,319.00,10,Transferência,Cancelada,Centro-Oeste
+PED-000120,2026-06-27,C0133,Mariana Lima,Notebook Essential,Eletrônicos,1,2832.20,0,Transferência,Concluída,Sul
+PED-000121,2025-11-09,C0113,Mariana Gomes,Mesa para escritório,Móveis,4,970.20,10,Cartão,Em processamento,Sudeste
+PED-000122,2025-01-16,C0162,Bruno Mendes,Estante modular,Móveis,3,797.90,0,Boleto,Concluída,Sudeste
+PED-000123,2026-05-11,C0128,Hugo Lima,Teclado mecânico,Acessórios,4,406.98,10,Cartão,Concluída,Sudeste
+PED-000124,2026-04-28,C0042,Bruno Costa,Tablet Plus,Eletrônicos,3,2204.20,0,Cartão,Em processamento,Centro-Oeste
+PED-000125,2025-04-09,C0023,Carla Barbosa,Tablet Plus,Eletrônicos,3,2161.40,15,Cartão,Pendente,Sudeste
+PED-000126,2025-01-02,C0028,Hugo Barbosa,Cadeira ergonômica,Móveis,2,1362.20,0,Pix,Cancelada,Centro-Oeste
+PED-000127,2025-05-25,C0003,Carla Almeida,Impressora Laser,Eletrônicos,3,1740.70,10,Boleto,Concluída,Sudeste
+PED-000128,2026-02-17,C0108,Hugo Gomes,Estante modular,Móveis,1,766.30,10,Boleto,Concluída,Nordeste
+PED-000129,2025-11-14,C0125,Elisa Lima,Headset Bluetooth,Acessórios,4,287.37,0,Cartão,Concluída,Sul
+PED-000130,2025-07-19,C0156,Paulo Martins,Gaveteiro compacto,Móveis,2,473.69,5,Boleto,Concluída,Norte
+PED-000131,2025-10-16,C0013,Mariana Almeida,Suporte para notebook,Acessórios,4,189.00,0,Transferência,Concluída,Nordeste
+PED-000132,2026-05-27,C0155,Olivia Martins,Mesa para escritório,Móveis,1,1009.80,0,Transferência,Concluída,Nordeste
+PED-000133,2026-05-21,C0079,Tatiana Dias,Monitor 27,Eletrônicos,2,1490.00,0,Transferência,Concluída,Centro-Oeste
+PED-000134,2026-08-28,C0136,Paulo Lima,Headset Bluetooth,Acessórios,4,284.58,0,Pix,Concluída,Sul
+PED-000135,2025-07-20,C0173,Mariana Mendes,Mesa para escritório,Móveis,1,990.00,5,Cartão,Concluída,Sudeste
+PED-000136,2025-08-14,C0163,Carla Mendes,Mouse sem fio,Acessórios,1,129.00,10,Transferência,Concluída,Centro-Oeste
+PED-000137,2025-07-31,C0053,Mariana Costa,Teclado mecânico,Acessórios,1,391.02,0,Transferência,Concluída,Sul
+PED-000138,2025-03-07,C0135,Olivia Lima,Mesa para escritório,Móveis,2,980.10,10,Cartão,Concluída,Sudeste
+PED-000139,2026-06-18,C0118,Sérgio Gomes,Mesa para escritório,Móveis,1,960.30,0,Pix,Concluída,Sul
+PED-000140,2026-05-06,C0169,Isabela Mendes,Impressora Laser,Eletrônicos,2,1673.10,0,Boleto,Concluída,Sudeste
+PED-000141,2025-08-02,C0047,Gabriela Costa,Notebook Essential,Eletrônicos,3,2890.00,5,Boleto,Concluída,Nordeste
+PED-000142,2026-03-03,C0063,Carla Dias,Notebook Pro,Eletrônicos,3,4375.80,15,Transferência,Concluída,Nordeste
+PED-000143,2026-08-10,C0151,Karen Martins,Monitor 27,Eletrônicos,1,1490.00,0,Cartão,Concluída,Centro-Oeste
+PED-000144,2025-10-10,C0012,Lucas Almeida,Cadeira ergonômica,Móveis,3,1348.30,0,Boleto,Concluída,Centro-Oeste
+PED-000145,2026-04-03,C0152,Lucas Martins,Mesa para escritório,Móveis,2,960.30,10,Transferência,Concluída,Sudeste
+PED-000146,2025-10-02,C0080,Vinícius Dias,Suporte para notebook,Acessórios,3,183.33,0,Pix,Concluída,Sudeste
+PED-000147,2025-06-17,C0133,Mariana Lima,Gaveteiro compacto,Móveis,1,478.38,10,Boleto,Concluída,Sul
+PED-000148,2026-07-07,C0046,Felipe Costa,Tablet Plus,Eletrônicos,3,2075.80,15,Pix,Concluída,Nordeste
+PED-000149,2026-01-25,C0136,Paulo Lima,Mesa para escritório,Móveis,2,960.30,15,Cartão,Concluída,Nordeste
+PED-000150,2026-04-06,C0092,Lucas Ferreira,Impressora Laser,Eletrônicos,1,1690.00,5,Pix,Concluída,Sudeste
+PED-000151,2026-08-21,C0019,Tatiana Almeida,Impressora Laser,Eletrônicos,3,1706.90,0,Pix,Concluída,Sul
+PED-000152,2025-01-22,C0051,Karen Costa,Tablet Plus,Eletrônicos,4,2204.20,10,Transferência,Concluída,Sul
+PED-000153,2025-01-17,C0177,Renata Mendes,Estante modular,Móveis,1,813.70,0,Boleto,Concluída,Nordeste
+PED-000154,2025-01-22,C0068,Hugo Dias,Monitor 27,Eletrônicos,3,1504.90,10,Pix,Concluída,Norte
+PED-000155,2025-04-07,C0122,Bruno Lima,Webcam Full HD,Acessórios,3,322.19,0,Boleto,Concluída,Nordeste
+PED-000156,2026-07-17,C0055,Olivia Costa,Gaveteiro compacto,Móveis,4,464.31,0,Transferência,Concluída,Nordeste
+PED-000157,2025-06-24,C0129,Isabela Lima,Teclado mecânico,Acessórios,1,391.02,0,Boleto,Concluída,Sul
+PED-000158,2025-01-01,C0154,Nicolas Martins,Mesa para escritório,Móveis,3,990.00,0,Cartão,Concluída,Nordeste
+PED-000159,2025-10-04,C0128,Hugo Lima,Estante modular,Móveis,3,790.00,10,Boleto,Concluída,Nordeste
+PED-000160,2025-03-27,C0033,Mariana Barbosa,Mesa para escritório,Móveis,3,1009.80,0,Boleto,Concluída,Sul
+PED-000161,2025-02-03,C0153,Mariana Martins,Mesa para escritório,Móveis,2,1019.70,0,Pix,Concluída,Centro-Oeste
+PED-000162,2025-11-27,C0171,Karen Mendes,Suporte para notebook,Acessórios,1,185.22,10,Cartão,Concluída,Sul
+PED-000163,2026-07-20,C0069,Isabela Dias,Notebook Pro,Eletrônicos,1,4247.10,0,Transferência,Pendente,Sudeste
+PED-000164,2025-12-06,C0130,João Lima,Notebook Essential,Eletrônicos,2,2803.30,0,Transferência,Concluída,Norte
+PED-000165,2026-09-17,C0177,Renata Mendes,Headset Bluetooth,Acessórios,4,273.42,0,Transferência,Concluída,Sul
+PED-000166,2025-04-22,C0093,Mariana Ferreira,Mesa para escritório,Móveis,1,970.20,10,Transferência,Concluída,Nordeste
+PED-000167,2025-03-10,C0018,Sérgio Almeida,Tablet Plus,Eletrônicos,2,2161.40,0,Pix,Cancelada,Norte
+PED-000168,2026-01-06,C0085,Elisa Ferreira,Mouse sem fio,Acessórios,3,132.87,0,Pix,Concluída,Norte
+PED-000169,2025-08-13,C0027,Gabriela Barbosa,Monitor 27,Eletrônicos,2,1460.20,0,Boleto,Concluída,Centro-Oeste
+PED-000170,2026-05-23,C0092,Lucas Ferreira,Mouse sem fio,Acessórios,1,129.00,10,Boleto,Concluída,Centro-Oeste
+PED-000171,2025-10-12,C0035,Olivia Barbosa,Cadeira ergonômica,Móveis,1,1417.80,10,Boleto,Concluída,Nordeste
+PED-000172,2025-08-10,C0125,Elisa Lima,Smartphone X,Eletrônicos,1,2845.80,10,Transferência,Concluída,Sudeste
+PED-000173,2025-04-06,C0125,Elisa Lima,Gaveteiro compacto,Móveis,2,464.31,0,Boleto,Pendente,Centro-Oeste
+PED-000174,2025-09-17,C0034,Nicolas Barbosa,Tablet Plus,Eletrônicos,4,2097.20,0,Boleto,Concluída,Norte
+PED-000175,2025-12-20,C0070,João Dias,Impressora Laser,Eletrônicos,1,1656.20,0,Transferência,Pendente,Nordeste
+PED-000176,2025-10-31,C0121,Ana Lima,Notebook Pro,Eletrônicos,3,4247.10,10,Cartão,Concluída,Centro-Oeste
+PED-000177,2026-03-25,C0008,Hugo Almeida,Notebook Pro,Eletrônicos,3,4418.70,5,Boleto,Cancelada,Nordeste
+PED-000178,2025-09-20,C0171,Karen Mendes,Estante modular,Móveis,4,813.70,0,Transferência,Pendente,Sul
+PED-000179,2026-03-17,C0003,Carla Almeida,Teclado mecânico,Acessórios,3,402.99,5,Cartão,Concluída,Centro-Oeste
+PED-000180,2025-04-17,C0091,Karen Ferreira,Mouse sem fio,Acessórios,1,126.42,0,Boleto,Concluída,Sul
+PED-000181,2026-03-31,C0054,Nicolas Costa,Webcam Full HD,Acessórios,3,328.57,10,Transferência,Concluída,Sudeste
+PED-000182,2026-09-01,C0127,Gabriela Lima,Tablet Plus,Eletrônicos,1,2140.00,15,Cartão,Concluída,Nordeste
+PED-000183,2025-09-08,C0175,Olivia Mendes,Estante modular,Móveis,2,782.10,5,Transferência,Concluída,Nordeste
+PED-000184,2025-03-29,C0170,João Mendes,Headset Bluetooth,Acessórios,3,287.37,5,Cartão,Concluída,Norte
+PED-000185,2026-09-06,C0152,Lucas Martins,Notebook Pro,Eletrônicos,4,4375.80,0,Transferência,Cancelada,Norte
+PED-000186,2026-09-13,C0148,Hugo Martins,Webcam Full HD,Acessórios,2,319.00,10,Pix,Cancelada,Sul
+PED-000187,2026-04-11,C0141,Ana Martins,Webcam Full HD,Acessórios,2,309.43,0,Pix,Concluída,Nordeste
+PED-000188,2025-04-16,C0017,Renata Almeida,Headset Bluetooth,Acessórios,1,281.79,0,Pix,Concluída,Sul
+PED-000189,2025-12-22,C0080,Vinícius Dias,Mouse sem fio,Acessórios,4,130.29,5,Boleto,Concluída,Sul
+PED-000190,2026-08-27,C0038,Sérgio Barbosa,Monitor 27,Eletrônicos,4,1534.70,5,Boleto,Concluída,Sul
+PED-000191,2025-02-07,C0065,Elisa Dias,Mesa para escritório,Móveis,4,960.30,0,Cartão,Concluída,Norte
+PED-000192,2026-03-13,C0162,Bruno Mendes,Mouse sem fio,Acessórios,4,129.00,0,Transferência,Concluída,Sudeste
+PED-000193,2025-05-19,C0094,Nicolas Ferreira,Notebook Pro,Eletrônicos,2,4204.20,0,Boleto,Concluída,Nordeste
+PED-000194,2026-05-08,C0003,Carla Almeida,Cadeira ergonômica,Móveis,4,1348.30,0,Transferência,Pendente,Nordeste
+PED-000195,2026-07-14,C0043,Carla Costa,Webcam Full HD,Acessórios,4,312.62,10,Pix,Concluída,Nordeste
+PED-000196,2025-10-13,C0132,Lucas Lima,Cadeira ergonômica,Móveis,3,1376.10,5,Transferência,Pendente,Centro-Oeste
+PED-000197,2026-08-09,C0107,Gabriela Gomes,Notebook Pro,Eletrônicos,3,4247.10,0,Boleto,Concluída,Sul
+PED-000198,2025-04-09,C0160,Vinícius Martins,Webcam Full HD,Acessórios,2,322.19,5,Transferência,Concluída,Sudeste
+PED-000199,2025-12-08,C0070,João Dias,Headset Bluetooth,Acessórios,1,276.21,5,Cartão,Concluída,Nordeste
+PED-000200,2025-05-30,C0106,Felipe Gomes,Tablet Plus,Eletrônicos,2,2182.80,15,Pix,Cancelada,Centro-Oeste
+PED-000201,2025-05-05,C0004,Daniel Almeida,Mesa para escritório,Móveis,2,1009.80,15,Cartão,Concluída,Sul
+PED-000202,2025-06-15,C0004,Daniel Almeida,Estante modular,Móveis,1,805.80,0,Boleto,Concluída,Sudeste
+PED-000203,2025-12-17,C0001,Ana Almeida,Mesa para escritório,Móveis,4,960.30,5,Cartão,Concluída,Centro-Oeste
+PED-000204,2025-05-21,C0123,Carla Lima,Gaveteiro compacto,Móveis,1,473.69,0,Pix,Cancelada,Sul
+PED-000205,2025-08-24,C0101,Ana Gomes,Mesa para escritório,Móveis,3,980.10,0,Boleto,Cancelada,Nordeste
+PED-000206,2026-06-02,C0040,Vinícius Barbosa,Estante modular,Móveis,3,790.00,0,Cartão,Concluída,Norte
+PED-000207,2026-08-03,C0123,Carla Lima,Impressora Laser,Eletrônicos,4,1723.80,5,Cartão,Concluída,Nordeste
+PED-000208,2025-10-21,C0077,Renata Dias,Estante modular,Móveis,1,790.00,0,Transferência,Concluída,Norte
+PED-000209,2025-03-24,C0076,Paulo Dias,Cadeira ergonômica,Móveis,4,1348.30,0,Cartão,Concluída,Sul
+PED-000210,2026-03-26,C0136,Paulo Lima,Gaveteiro compacto,Móveis,4,478.38,0,Cartão,Concluída,Sul
+PED-000211,2026-07-16,C0002,Bruno Almeida,Tablet Plus,Eletrônicos,2,2097.20,10,Cartão,Concluída,Nordeste
+PED-000212,2025-10-26,C0003,Carla Almeida,Gaveteiro compacto,Móveis,3,454.93,0,Pix,Cancelada,Centro-Oeste
+PED-000213,2026-07-16,C0137,Renata Lima,Smartphone X,Eletrônicos,1,2845.80,0,Cartão,Pendente,Sul
+PED-000214,2026-03-10,C0152,Lucas Martins,Notebook Essential,Eletrônicos,3,2890.00,5,Transferência,Cancelada,Sul
+PED-000215,2026-02-18,C0087,Gabriela Ferreira,Gaveteiro compacto,Móveis,1,478.38,0,Cartão,Em processamento,Norte
+PED-000216,2026-09-04,C0051,Karen Costa,Smartphone X,Eletrônicos,4,2873.70,0,Cartão,Cancelada,Sul
+PED-000217,2026-05-09,C0153,Mariana Martins,Teclado mecânico,Acessórios,4,406.98,5,Boleto,Concluída,Nordeste
+PED-000218,2025-01-01,C0163,Carla Mendes,Estante modular,Móveis,1,790.00,0,Pix,Concluída,Sudeste
+PED-000219,2025-07-03,C0034,Nicolas Barbosa,Cadeira ergonômica,Móveis,2,1403.90,15,Boleto,Concluída,Sul
+PED-000220,2025-07-14,C0071,Karen Dias,Smartphone X,Eletrônicos,4,2790.00,5,Boleto,Concluída,Centro-Oeste
+PED-000221,2025-10-24,C0059,Tatiana Costa,Monitor 27,Eletrônicos,1,1475.10,0,Pix,Concluída,Centro-Oeste
+PED-000222,2026-07-11,C0174,Nicolas Mendes,Mesa para escritório,Móveis,2,999.90,0,Pix,Concluída,Sudeste
+PED-000223,2026-03-31,C0137,Renata Lima,Notebook Pro,Eletrônicos,3,4204.20,0,Pix,Concluída,Norte
+PED-000224,2025-01-31,C0104,Daniel Gomes,Gaveteiro compacto,Móveis,2,454.93,0,Boleto,Concluída,Sudeste
+PED-000225,2026-07-12,C0048,Hugo Costa,Impressora Laser,Eletrônicos,3,1673.10,5,Boleto,Concluída,Sudeste
+PED-000226,2025-06-16,C0163,Carla Mendes,Smartphone X,Eletrônicos,3,2790.00,5,Transferência,Concluída,Norte
+PED-000227,2026-02-12,C0090,João Ferreira,Gaveteiro compacto,Móveis,1,464.31,10,Boleto,Concluída,Sudeste
+PED-000228,2026-04-20,C0180,Vinícius Mendes,Notebook Pro,Eletrônicos,1,4290.00,15,Boleto,Em processamento,Centro-Oeste
+PED-000229,2026-06-11,C0004,Daniel Almeida,Mouse sem fio,Acessórios,4,129.00,0,Cartão,Concluída,Centro-Oeste
+PED-000230,2025-01-18,C0061,Ana Dias,Smartphone X,Eletrônicos,2,2706.30,15,Pix,Concluída,Norte
+PED-000231,2025-12-28,C0117,Renata Gomes,Mesa para escritório,Móveis,4,999.90,15,Boleto,Concluída,Norte
+PED-000232,2025-01-23,C0081,Ana Ferreira,Estante modular,Móveis,2,805.80,10,Cartão,Concluída,Norte
+PED-000233,2026-05-28,C0005,Elisa Almeida,Impressora Laser,Eletrônicos,4,1656.20,5,Cartão,Concluída,Nordeste
+PED-000234,2026-05-31,C0074,Nicolas Dias,Estante modular,Móveis,4,813.70,10,Boleto,Concluída,Nordeste
+PED-000235,2025-11-11,C0050,João Costa,Notebook Pro,Eletrônicos,3,4418.70,0,Boleto,Cancelada,Norte
+PED-000236,2025-05-06,C0084,Daniel Ferreira,Webcam Full HD,Acessórios,1,319.00,0,Cartão,Concluída,Nordeste
+PED-000237,2026-01-27,C0178,Sérgio Mendes,Tablet Plus,Eletrônicos,4,2161.40,0,Cartão,Concluída,Sudeste
+PED-000238,2025-07-06,C0137,Renata Lima,Tablet Plus,Eletrônicos,4,2097.20,15,Pix,Concluída,Centro-Oeste
+PED-000239,2026-07-13,C0034,Nicolas Barbosa,Mesa para escritório,Móveis,3,1019.70,15,Pix,Concluída,Nordeste
+PED-000240,2025-07-10,C0003,Carla Almeida,Gaveteiro compacto,Móveis,2,483.07,15,Pix,Concluída,Sul
+PED-000241,2026-02-05,C0047,Gabriela Costa,Headset Bluetooth,Acessórios,2,270.63,0,Transferência,Concluída,Nordeste
+PED-000242,2025-01-11,C0068,Hugo Dias,Gaveteiro compacto,Móveis,4,473.69,0,Boleto,Concluída,Nordeste
+PED-000243,2026-07-28,C0157,Renata Martins,Impressora Laser,Eletrônicos,2,1656.20,0,Transferência,Pendente,Centro-Oeste
+PED-000244,2025-07-27,C0165,Elisa Mendes,Notebook Pro,Eletrônicos,3,4247.10,5,Boleto,Concluída,Sul
+PED-000245,2026-04-26,C0044,Daniel Costa,Mesa para escritório,Móveis,3,1019.70,5,Boleto,Concluída,Centro-Oeste
+PED-000246,2026-02-13,C0039,Tatiana Barbosa,Mesa para escritório,Móveis,1,980.10,5,Transferência,Concluída,Norte
+PED-000247,2025-04-10,C0068,Hugo Dias,Teclado mecânico,Acessórios,3,402.99,0,Cartão,Cancelada,Nordeste
+PED-000248,2026-04-05,C0113,Mariana Gomes,Mesa para escritório,Móveis,1,1019.70,0,Pix,Concluída,Centro-Oeste
+PED-000249,2025-10-10,C0015,Olivia Almeida,Smartphone X,Eletrônicos,1,2817.90,10,Pix,Concluída,Norte
+PED-000250,2025-04-21,C0125,Elisa Lima,Tablet Plus,Eletrônicos,1,2161.40,5,Pix,Concluída,Sudeste
+PED-000251,2025-05-26,C0111,Karen Gomes,Notebook Essential,Eletrônicos,3,2947.80,0,Transferência,Concluída,Sul
+PED-000252,2026-03-15,C0004,Daniel Almeida,Estante modular,Móveis,4,797.90,5,Boleto,Concluída,Nordeste
+PED-000253,2025-06-21,C0016,Paulo Almeida,Impressora Laser,Eletrônicos,4,1690.00,10,Cartão,Concluída,Centro-Oeste
+PED-000254,2025-01-23,C0090,João Ferreira,Suporte para notebook,Acessórios,4,187.11,10,Transferência,Concluída,Centro-Oeste
+PED-000255,2025-01-28,C0098,Sérgio Ferreira,Notebook Essential,Eletrônicos,1,2861.10,5,Transferência,Concluída,Sul
+PED-000256,2026-05-06,C0052,Lucas Costa,Tablet Plus,Eletrônicos,3,2161.40,10,Boleto,Concluída,Norte
+PED-000257,2025-01-14,C0108,Hugo Gomes,Mouse sem fio,Acessórios,3,129.00,5,Boleto,Concluída,Sul
+PED-000258,2026-02-10,C0061,Ana Dias,Webcam Full HD,Acessórios,1,312.62,0,Pix,Concluída,Sul
+PED-000259,2026-01-08,C0019,Tatiana Almeida,Suporte para notebook,Acessórios,4,185.22,0,Pix,Concluída,Norte
+PED-000260,2026-05-15,C0029,Isabela Barbosa,Suporte para notebook,Acessórios,2,189.00,0,Pix,Concluída,Nordeste
+PED-000261,2025-06-13,C0042,Bruno Costa,Tablet Plus,Eletrônicos,2,2097.20,0,Pix,Concluída,Sudeste
+PED-000262,2026-02-28,C0083,Carla Ferreira,Mouse sem fio,Acessórios,1,131.58,0,Cartão,Em processamento,Sul
+PED-000263,2026-01-13,C0006,Felipe Almeida,Mouse sem fio,Acessórios,3,127.71,0,Cartão,Concluída,Sudeste
+PED-000264,2025-03-12,C0004,Daniel Almeida,Suporte para notebook,Acessórios,3,190.89,0,Cartão,Concluída,Norte
+PED-000265,2026-04-22,C0130,João Lima,Tablet Plus,Eletrônicos,2,2204.20,5,Boleto,Concluída,Centro-Oeste
+PED-000266,2026-06-27,C0033,Mariana Barbosa,Impressora Laser,Eletrônicos,2,1656.20,5,Pix,Concluída,Nordeste
+PED-000267,2025-07-18,C0140,Vinícius Lima,Cadeira ergonômica,Móveis,2,1403.90,0,Cartão,Concluída,Nordeste
+PED-000268,2026-03-30,C0111,Karen Gomes,Mouse sem fio,Acessórios,4,126.42,10,Pix,Concluída,Sudeste
+PED-000269,2025-08-04,C0142,Bruno Martins,Mesa para escritório,Móveis,3,1019.70,5,Boleto,Concluída,Nordeste
+PED-000270,2025-10-22,C0137,Renata Lima,Mesa para escritório,Móveis,2,970.20,10,Pix,Cancelada,Norte
+PED-000271,2025-07-01,C0036,Paulo Barbosa,Notebook Pro,Eletrônicos,2,4290.00,10,Transferência,Concluída,Norte
+PED-000272,2026-05-02,C0073,Mariana Dias,Headset Bluetooth,Acessórios,3,270.63,0,Cartão,Concluída,Centro-Oeste
+PED-000273,2026-09-15,C0144,Daniel Martins,Headset Bluetooth,Acessórios,1,281.79,0,Boleto,Concluída,Sul
+PED-000274,2025-11-11,C0045,Elisa Costa,Cadeira ergonômica,Móveis,4,1431.70,0,Cartão,Cancelada,Norte
+PED-000275,2025-01-23,C0147,Gabriela Martins,Monitor 27,Eletrônicos,2,1445.30,15,Transferência,Concluída,Centro-Oeste
+PED-000276,2025-09-07,C0152,Lucas Martins,Webcam Full HD,Acessórios,3,315.81,10,Cartão,Cancelada,Sul
+PED-000277,2025-07-07,C0012,Lucas Almeida,Headset Bluetooth,Acessórios,1,273.42,0,Cartão,Cancelada,Sul
+PED-000278,2025-08-25,C0044,Daniel Costa,Smartphone X,Eletrônicos,2,2762.10,0,Boleto,Cancelada,Sudeste
+PED-000279,2026-04-26,C0127,Gabriela Lima,Mesa para escritório,Móveis,3,990.00,5,Cartão,Concluída,Sul
+PED-000280,2026-09-07,C0014,Nicolas Almeida,Headset Bluetooth,Acessórios,2,281.79,5,Cartão,Concluída,Norte
+PED-000281,2025-12-09,C0016,Paulo Almeida,Tablet Plus,Eletrônicos,1,2140.00,0,Transferência,Pendente,Sudeste
+PED-000282,2026-02-14,C0116,Paulo Gomes,Webcam Full HD,Acessórios,2,315.81,15,Transferência,Concluída,Centro-Oeste
+PED-000283,2026-03-13,C0067,Gabriela Dias,Estante modular,Móveis,3,805.80,15,Cartão,Concluída,Sul
+PED-000284,2025-08-08,C0145,Elisa Martins,Monitor 27,Eletrônicos,3,1475.10,10,Cartão,Concluída,Norte
+PED-000285,2025-02-14,C0029,Isabela Barbosa,Notebook Essential,Eletrônicos,1,2803.30,5,Cartão,Cancelada,Norte
+PED-000286,2026-08-04,C0151,Karen Martins,Monitor 27,Eletrônicos,2,1445.30,15,Cartão,Concluída,Norte
+PED-000287,2025-12-16,C0028,Hugo Barbosa,Impressora Laser,Eletrônicos,3,1656.20,15,Transferência,Concluída,Norte
+PED-000288,2025-08-30,C0069,Isabela Dias,Mouse sem fio,Acessórios,3,131.58,0,Cartão,Concluída,Norte
+PED-000289,2026-02-11,C0178,Sérgio Mendes,Smartphone X,Eletrônicos,4,2762.10,10,Boleto,Concluída,Centro-Oeste
+PED-000290,2025-03-26,C0170,João Mendes,Monitor 27,Eletrônicos,1,1445.30,5,Transferência,Concluída,Nordeste
+PED-000291,2025-08-07,C0012,Lucas Almeida,Mouse sem fio,Acessórios,1,129.00,10,Boleto,Concluída,Sudeste
+PED-000292,2025-02-09,C0065,Elisa Dias,Teclado mecânico,Acessórios,4,399.00,0,Pix,Concluída,Sul
+PED-000293,2025-02-13,C0069,Isabela Dias,Teclado mecânico,Acessórios,1,406.98,5,Transferência,Cancelada,Norte
+PED-000294,2026-04-24,C0001,Ana Almeida,Monitor 27,Eletrônicos,3,1475.10,0,Pix,Concluída,Centro-Oeste
+PED-000295,2025-10-25,C0001,Ana Almeida,Notebook Pro,Eletrônicos,1,4161.30,0,Transferência,Concluída,Nordeste
+PED-000296,2026-09-12,C0005,Elisa Almeida,Suporte para notebook,Acessórios,1,194.67,0,Transferência,Concluída,Norte
+PED-000297,2025-04-01,C0022,Bruno Barbosa,Headset Bluetooth,Acessórios,3,284.58,0,Pix,Concluída,Centro-Oeste
+PED-000298,2026-05-08,C0044,Daniel Costa,Smartphone X,Eletrônicos,3,2845.80,15,Boleto,Concluída,Sudeste
+PED-000299,2026-04-06,C0153,Mariana Martins,Estante modular,Móveis,3,774.20,5,Transferência,Concluída,Centro-Oeste
+PED-000300,2026-07-06,C0129,Isabela Lima,Teclado mecânico,Acessórios,2,406.98,0,Cartão,Cancelada,Centro-Oeste
+PED-000301,2026-05-15,C0090,João Ferreira,Monitor 27,Eletrônicos,2,1460.20,5,Boleto,Concluída,Norte
+PED-000302,2025-06-07,C0146,Felipe Martins,Teclado mecânico,Acessórios,3,406.98,0,Pix,Concluída,Centro-Oeste
+PED-000303,2026-07-13,C0150,João Martins,Estante modular,Móveis,1,766.30,0,Boleto,Pendente,Centro-Oeste
+PED-000304,2025-12-24,C0149,Isabela Martins,Monitor 27,Eletrônicos,1,1504.90,0,Cartão,Concluída,Norte
+PED-000305,2025-01-13,C0042,Bruno Costa,Notebook Essential,Eletrônicos,1,2947.80,15,Transferência,Concluída,Norte
+PED-000306,2026-07-08,C0123,Carla Lima,Impressora Laser,Eletrônicos,4,1673.10,10,Pix,Concluída,Centro-Oeste
+PED-000307,2026-03-30,C0028,Hugo Barbosa,Impressora Laser,Eletrônicos,3,1690.00,0,Cartão,Cancelada,Nordeste
+PED-000308,2025-10-31,C0171,Karen Mendes,Teclado mecânico,Acessórios,1,399.00,0,Transferência,Concluída,Centro-Oeste
+PED-000309,2026-05-03,C0132,Lucas Lima,Gaveteiro compacto,Móveis,2,469.00,5,Boleto,Concluída,Sul
+PED-000310,2025-04-06,C0089,Isabela Ferreira,Webcam Full HD,Acessórios,1,309.43,10,Transferência,Concluída,Centro-Oeste
+PED-000311,2026-05-29,C0157,Renata Martins,Impressora Laser,Eletrônicos,4,1639.30,0,Pix,Concluída,Nordeste
+PED-000312,2026-03-06,C0087,Gabriela Ferreira,Tablet Plus,Eletrônicos,4,2118.60,0,Pix,Concluída,Sul
+PED-000313,2025-05-29,C0154,Nicolas Martins,Monitor 27,Eletrônicos,1,1490.00,0,Boleto,Em processamento,Centro-Oeste
+PED-000314,2026-01-01,C0109,Isabela Gomes,Mouse sem fio,Acessórios,3,131.58,5,Cartão,Concluída,Nordeste
+PED-000315,2025-11-26,C0061,Ana Dias,Smartphone X,Eletrônicos,1,2817.90,10,Cartão,Concluída,Norte
+PED-000316,2026-07-26,C0106,Felipe Gomes,Notebook Pro,Eletrônicos,1,4204.20,15,Transferência,Concluída,Norte
+PED-000317,2026-05-16,C0118,Sérgio Gomes,Notebook Essential,Eletrônicos,4,2861.10,5,Pix,Concluída,Centro-Oeste
+PED-000318,2025-08-15,C0114,Nicolas Gomes,Mouse sem fio,Acessórios,3,129.00,0,Cartão,Concluída,Sul
+PED-000319,2026-05-02,C0160,Vinícius Martins,Notebook Pro,Eletrônicos,1,4204.20,15,Boleto,Cancelada,Nordeste
+PED-000320,2025-05-26,C0085,Elisa Ferreira,Smartphone X,Eletrônicos,4,2706.30,0,Transferência,Concluída,Sul
+PED-000321,2026-07-11,C0152,Lucas Martins,Gaveteiro compacto,Móveis,1,473.69,0,Cartão,Concluída,Norte
+PED-000322,2025-10-02,C0040,Vinícius Barbosa,Notebook Pro,Eletrônicos,4,4332.90,10,Boleto,Concluída,Centro-Oeste
+PED-000323,2026-04-08,C0085,Elisa Ferreira,Cadeira ergonômica,Móveis,4,1362.20,0,Boleto,Concluída,Sudeste
+PED-000324,2025-04-21,C0046,Felipe Costa,Webcam Full HD,Acessórios,2,319.00,5,Pix,Concluída,Centro-Oeste
+PED-000325,2025-10-21,C0152,Lucas Martins,Estante modular,Móveis,4,797.90,0,Cartão,Concluída,Sudeste
+PED-000326,2026-03-20,C0154,Nicolas Martins,Headset Bluetooth,Acessórios,3,281.79,0,Cartão,Concluída,Sudeste
+PED-000327,2025-11-08,C0069,Isabela Dias,Mouse sem fio,Acessórios,2,130.29,0,Transferência,Concluída,Sudeste
+PED-000328,2025-12-28,C0173,Mariana Mendes,Gaveteiro compacto,Móveis,3,469.00,0,Cartão,Concluída,Norte
+PED-000329,2026-02-21,C0127,Gabriela Lima,Impressora Laser,Eletrônicos,2,1706.90,10,Transferência,Cancelada,Norte
+PED-000330,2026-09-10,C0159,Tatiana Martins,Impressora Laser,Eletrônicos,2,1690.00,0,Boleto,Cancelada,Norte
+PED-000331,2025-05-09,C0076,Paulo Dias,Estante modular,Móveis,1,766.30,10,Pix,Cancelada,Sul
+PED-000332,2025-09-06,C0066,Felipe Dias,Teclado mecânico,Acessórios,1,406.98,5,Transferência,Concluída,Sul
+PED-000333,2025-02-24,C0061,Ana Dias,Suporte para notebook,Acessórios,3,187.11,0,Pix,Pendente,Sudeste
+PED-000334,2026-05-28,C0027,Gabriela Barbosa,Teclado mecânico,Acessórios,1,402.99,0,Boleto,Cancelada,Norte
+PED-000335,2025-10-01,C0007,Gabriela Almeida,Monitor 27,Eletrônicos,3,1519.80,0,Boleto,Concluída,Sudeste
+PED-000336,2025-06-09,C0140,Vinícius Lima,Impressora Laser,Eletrônicos,1,1639.30,5,Pix,Concluída,Centro-Oeste
+PED-000337,2026-01-22,C0127,Gabriela Lima,Notebook Essential,Eletrônicos,4,2918.90,0,Transferência,Concluída,Norte
+PED-000338,2025-09-01,C0158,Sérgio Martins,Mesa para escritório,Móveis,1,980.10,0,Cartão,Concluída,Norte
+PED-000339,2026-02-22,C0048,Hugo Costa,Notebook Pro,Eletrônicos,2,4332.90,0,Pix,Concluída,Nordeste
+PED-000340,2025-12-03,C0162,Bruno Mendes,Gaveteiro compacto,Móveis,3,469.00,0,Pix,Concluída,Centro-Oeste
+PED-000341,2026-05-31,C0174,Nicolas Mendes,Impressora Laser,Eletrônicos,4,1706.90,0,Transferência,Concluída,Nordeste
+PED-000342,2025-01-21,C0121,Ana Lima,Webcam Full HD,Acessórios,1,319.00,5,Pix,Cancelada,Sudeste
+PED-000343,2025-03-03,C0105,Elisa Gomes,Gaveteiro compacto,Móveis,2,454.93,10,Transferência,Concluída,Centro-Oeste
+PED-000344,2025-05-07,C0085,Elisa Ferreira,Headset Bluetooth,Acessórios,3,284.58,5,Transferência,Concluída,Nordeste
+PED-000345,2025-06-08,C0149,Isabela Martins,Monitor 27,Eletrônicos,2,1490.00,5,Transferência,Concluída,Sul
+PED-000346,2025-03-23,C0147,Gabriela Martins,Mesa para escritório,Móveis,2,1009.80,5,Boleto,Concluída,Centro-Oeste
+PED-000347,2025-06-14,C0177,Renata Mendes,Mouse sem fio,Acessórios,2,126.42,10,Boleto,Concluída,Centro-Oeste
+PED-000348,2026-03-08,C0042,Bruno Costa,Notebook Pro,Eletrônicos,1,4418.70,0,Pix,Concluída,Norte
+PED-000349,2025-05-19,C0076,Paulo Dias,Notebook Pro,Eletrônicos,2,4204.20,0,Boleto,Concluída,Sul
+PED-000350,2025-09-03,C0035,Olivia Barbosa,Monitor 27,Eletrônicos,3,1475.10,0,Boleto,Concluída,Norte
+PED-000351,2025-04-10,C0155,Olivia Martins,Gaveteiro compacto,Móveis,1,454.93,10,Transferência,Concluída,Nordeste
+PED-000352,2026-01-02,C0079,Tatiana Dias,Teclado mecânico,Acessórios,2,387.03,5,Transferência,Em processamento,Sudeste
+PED-000353,2026-08-09,C0099,Tatiana Ferreira,Webcam Full HD,Acessórios,2,319.00,5,Transferência,Concluída,Sul
+PED-000354,2026-05-13,C0103,Carla Gomes,Notebook Essential,Eletrônicos,1,2832.20,5,Cartão,Concluída,Centro-Oeste
+PED-000355,2026-05-15,C0089,Isabela Ferreira,Monitor 27,Eletrônicos,4,1445.30,0,Transferência,Concluída,Sudeste
+PED-000356,2026-07-23,C0005,Elisa Almeida,Notebook Pro,Eletrônicos,3,4161.30,10,Boleto,Concluída,Nordeste
+PED-000357,2026-09-12,C0032,Lucas Barbosa,Cadeira ergonômica,Móveis,2,1348.30,0,Boleto,Concluída,Centro-Oeste
+PED-000358,2026-03-14,C0007,Gabriela Almeida,Webcam Full HD,Acessórios,4,315.81,15,Pix,Concluída,Centro-Oeste
+PED-000359,2025-09-26,C0052,Lucas Costa,Estante modular,Móveis,3,797.90,0,Pix,Concluída,Sudeste
+PED-000360,2025-04-21,C0013,Mariana Almeida,Webcam Full HD,Acessórios,3,328.57,0,Boleto,Concluída,Nordeste
+PED-000361,2026-01-11,C0070,João Dias,Webcam Full HD,Acessórios,4,315.81,5,Transferência,Concluída,Centro-Oeste
+PED-000362,2026-07-14,C0142,Bruno Martins,Estante modular,Móveis,1,790.00,10,Pix,Pendente,Centro-Oeste
+PED-000363,2026-06-24,C0179,Tatiana Mendes,Cadeira ergonômica,Móveis,1,1362.20,5,Boleto,Concluída,Nordeste
+PED-000364,2026-02-01,C0035,Olivia Barbosa,Notebook Pro,Eletrônicos,4,4332.90,0,Transferência,Concluída,Norte
+PED-000365,2025-03-25,C0045,Elisa Costa,Gaveteiro compacto,Móveis,1,483.07,15,Cartão,Concluída,Norte
+PED-000366,2026-01-19,C0115,Olivia Gomes,Impressora Laser,Eletrônicos,4,1639.30,5,Pix,Concluída,Sul
+PED-000367,2026-01-13,C0108,Hugo Gomes,Suporte para notebook,Acessórios,2,189.00,0,Cartão,Concluída,Sudeste
+PED-000368,2025-06-30,C0002,Bruno Almeida,Monitor 27,Eletrônicos,4,1519.80,10,Pix,Concluída,Norte
+PED-000369,2026-04-28,C0056,Paulo Costa,Suporte para notebook,Acessórios,1,189.00,5,Cartão,Concluída,Norte
+PED-000370,2026-04-17,C0167,Gabriela Mendes,Mouse sem fio,Acessórios,2,125.13,0,Transferência,Concluída,Sul
+PED-000371,2026-04-10,C0110,João Gomes,Suporte para notebook,Acessórios,4,190.89,0,Transferência,Concluída,Norte
+PED-000372,2026-02-08,C0160,Vinícius Martins,Notebook Essential,Eletrônicos,3,2861.10,0,Transferência,Cancelada,Sul
+PED-000373,2025-08-26,C0124,Daniel Lima,Webcam Full HD,Acessórios,1,322.19,5,Boleto,Concluída,Norte
+PED-000374,2026-06-08,C0112,Lucas Gomes,Tablet Plus,Eletrônicos,1,2204.20,15,Boleto,Concluída,Norte
+PED-000375,2026-06-05,C0161,Ana Mendes,Headset Bluetooth,Acessórios,4,276.21,10,Boleto,Concluída,Sul
+PED-000376,2025-06-22,C0078,Sérgio Dias,Monitor 27,Eletrônicos,2,1445.30,10,Transferência,Concluída,Nordeste
+PED-000377,2026-07-24,C0164,Daniel Mendes,Cadeira ergonômica,Móveis,2,1417.80,10,Cartão,Cancelada,Norte
+PED-000378,2025-10-25,C0163,Carla Mendes,Tablet Plus,Eletrônicos,2,2161.40,0,Pix,Concluída,Norte
+PED-000379,2025-04-04,C0062,Bruno Dias,Teclado mecânico,Acessórios,1,395.01,10,Pix,Concluída,Norte
+PED-000380,2026-01-17,C0111,Karen Gomes,Monitor 27,Eletrônicos,4,1490.00,5,Pix,Concluída,Centro-Oeste
+PED-000381,2026-08-03,C0176,Paulo Mendes,Estante modular,Móveis,4,805.80,5,Pix,Concluída,Centro-Oeste
+PED-000382,2025-08-04,C0084,Daniel Ferreira,Tablet Plus,Eletrônicos,3,2075.80,5,Boleto,Cancelada,Sudeste
+PED-000383,2025-03-12,C0180,Vinícius Mendes,Estante modular,Móveis,3,813.70,0,Transferência,Concluída,Sudeste
+PED-000384,2026-01-14,C0076,Paulo Dias,Notebook Essential,Eletrônicos,1,2832.20,5,Cartão,Concluída,Norte
+PED-000385,2025-02-06,C0075,Olivia Dias,Monitor 27,Eletrônicos,4,1519.80,10,Transferência,Concluída,Nordeste
+PED-000386,2026-08-18,C0052,Lucas Costa,Teclado mecânico,Acessórios,3,406.98,0,Transferência,Concluída,Nordeste
+PED-000387,2026-04-18,C0069,Isabela Dias,Mesa para escritório,Móveis,1,999.90,5,Pix,Cancelada,Sul
+PED-000388,2025-04-16,C0067,Gabriela Dias,Teclado mecânico,Acessórios,2,399.00,0,Boleto,Cancelada,Centro-Oeste
+PED-000389,2025-11-04,C0030,João Barbosa,Notebook Pro,Eletrônicos,1,4332.90,0,Cartão,Concluída,Norte
+PED-000390,2026-03-04,C0130,João Lima,Estante modular,Móveis,4,766.30,10,Transferência,Concluída,Nordeste
+PED-000391,2025-10-29,C0033,Mariana Barbosa,Mesa para escritório,Móveis,1,960.30,10,Boleto,Concluída,Nordeste
+PED-000392,2025-10-27,C0070,João Dias,Headset Bluetooth,Acessórios,4,287.37,10,Boleto,Concluída,Sul
+PED-000393,2026-05-15,C0099,Tatiana Ferreira,Smartphone X,Eletrônicos,2,2817.90,10,Boleto,Concluída,Nordeste
+PED-000394,2026-08-14,C0006,Felipe Almeida,Notebook Essential,Eletrônicos,1,2976.70,15,Pix,Concluída,Nordeste
+PED-000395,2025-12-16,C0116,Paulo Gomes,Gaveteiro compacto,Móveis,1,473.69,5,Boleto,Concluída,Sul
+PED-000396,2026-01-10,C0148,Hugo Martins,Smartphone X,Eletrônicos,3,2762.10,5,Transferência,Concluída,Centro-Oeste
+PED-000397,2026-03-10,C0155,Olivia Martins,Monitor 27,Eletrônicos,2,1519.80,10,Cartão,Concluída,Sudeste
+PED-000398,2025-08-01,C0145,Elisa Martins,Gaveteiro compacto,Móveis,2,454.93,5,Cartão,Concluída,Norte
+PED-000399,2025-01-19,C0020,Vinícius Almeida,Mouse sem fio,Acessórios,3,129.00,0,Boleto,Concluída,Sul
+PED-000400,2025-01-15,C0101,Ana Gomes,Smartphone X,Eletrônicos,1,2790.00,0,Cartão,Pendente,Norte
+PED-000401,2025-12-06,C0019,Tatiana Almeida,Headset Bluetooth,Acessórios,2,284.58,5,Transferência,Concluída,Sul
+PED-000402,2025-05-26,C0147,Gabriela Martins,Smartphone X,Eletrônicos,4,2734.20,0,Boleto,Concluída,Nordeste
+PED-000403,2025-01-23,C0129,Isabela Lima,Webcam Full HD,Acessórios,2,315.81,5,Cartão,Concluída,Sul
+PED-000404,2025-01-23,C0109,Isabela Gomes,Cadeira ergonômica,Móveis,3,1376.10,0,Cartão,Concluída,Centro-Oeste
+PED-000405,2026-03-26,C0004,Daniel Almeida,Monitor 27,Eletrônicos,4,1445.30,5,Pix,Concluída,Centro-Oeste
+PED-000406,2025-04-05,C0059,Tatiana Costa,Teclado mecânico,Acessórios,3,387.03,0,Pix,Concluída,Centro-Oeste
+PED-000407,2026-03-23,C0031,Karen Barbosa,Webcam Full HD,Acessórios,1,325.38,10,Boleto,Concluída,Centro-Oeste
+PED-000408,2025-01-28,C0094,Nicolas Ferreira,Tablet Plus,Eletrônicos,4,2097.20,10,Cartão,Concluída,Sudeste
+PED-000409,2025-03-06,C0081,Ana Ferreira,Tablet Plus,Eletrônicos,2,2161.40,5,Cartão,Concluída,Sudeste
+PED-000410,2026-05-24,C0160,Vinícius Martins,Notebook Essential,Eletrônicos,1,2861.10,5,Pix,Concluída,Norte
+PED-000411,2025-03-26,C0008,Hugo Almeida,Gaveteiro compacto,Móveis,3,473.69,0,Pix,Concluída,Sudeste
+PED-000412,2025-06-07,C0113,Mariana Gomes,Notebook Essential,Eletrônicos,2,2803.30,10,Pix,Concluída,Norte
+PED-000413,2025-07-26,C0102,Bruno Gomes,Webcam Full HD,Acessórios,3,328.57,0,Cartão,Cancelada,Nordeste
+PED-000414,2026-05-20,C0005,Elisa Almeida,Smartphone X,Eletrônicos,3,2706.30,15,Transferência,Concluída,Sudeste
+PED-000415,2025-01-03,C0016,Paulo Almeida,Smartphone X,Eletrônicos,3,2734.20,0,Boleto,Concluída,Centro-Oeste
+PED-000416,2025-07-30,C0150,João Martins,Estante modular,Móveis,1,774.20,0,Pix,Concluída,Centro-Oeste
+PED-000417,2026-01-14,C0132,Lucas Lima,Headset Bluetooth,Acessórios,1,273.42,5,Transferência,Concluída,Norte
+PED-000418,2025-04-15,C0097,Renata Ferreira,Cadeira ergonômica,Móveis,3,1390.00,0,Transferência,Concluída,Sul
+PED-000419,2025-02-01,C0083,Carla Ferreira,Estante modular,Móveis,4,813.70,5,Boleto,Concluída,Centro-Oeste
+PED-000420,2025-01-02,C0088,Hugo Ferreira,Monitor 27,Eletrônicos,4,1445.30,0,Transferência,Concluída,Sudeste
+PED-000421,2025-04-12,C0139,Tatiana Lima,Impressora Laser,Eletrônicos,2,1656.20,0,Cartão,Concluída,Norte
+PED-000422,2025-08-29,C0037,Renata Barbosa,Teclado mecânico,Acessórios,2,391.02,0,Transferência,Concluída,Sudeste
+PED-000423,2025-07-21,C0156,Paulo Martins,Mesa para escritório,Móveis,4,1009.80,10,Cartão,Pendente,Nordeste
+PED-000424,2025-12-20,C0126,Felipe Lima,Suporte para notebook,Acessórios,3,189.00,5,Boleto,Concluída,Nordeste
+PED-000425,2026-03-12,C0003,Carla Almeida,Webcam Full HD,Acessórios,4,322.19,0,Boleto,Concluída,Norte
+PED-000426,2026-01-06,C0015,Olivia Almeida,Notebook Essential,Eletrônicos,1,2861.10,5,Boleto,Concluída,Sudeste
+PED-000427,2026-06-09,C0006,Felipe Almeida,Mouse sem fio,Acessórios,2,132.87,5,Transferência,Pendente,Sudeste
+PED-000428,2026-08-12,C0164,Daniel Mendes,Estante modular,Móveis,1,766.30,0,Boleto,Concluída,Sul
+PED-000429,2025-08-06,C0092,Lucas Ferreira,Smartphone X,Eletrônicos,1,2790.00,0,Boleto,Em processamento,Norte
+PED-000430,2026-08-30,C0143,Carla Martins,Teclado mecânico,Acessórios,2,387.03,5,Transferência,Concluída,Norte
+PED-000431,2025-07-11,C0003,Carla Almeida,Headset Bluetooth,Acessórios,2,284.58,10,Cartão,Concluída,Sudeste
+PED-000432,2026-03-16,C0129,Isabela Lima,Impressora Laser,Eletrônicos,4,1706.90,0,Pix,Concluída,Sul
+PED-000433,2025-02-12,C0017,Renata Almeida,Webcam Full HD,Acessórios,1,319.00,5,Transferência,Concluída,Sul
+PED-000434,2026-01-10,C0076,Paulo Dias,Headset Bluetooth,Acessórios,1,270.63,0,Boleto,Concluída,Sul
+PED-000435,2026-06-06,C0037,Renata Barbosa,Mouse sem fio,Acessórios,4,130.29,10,Transferência,Concluída,Sul
+PED-000436,2025-02-20,C0049,Isabela Costa,Mouse sem fio,Acessórios,2,125.13,5,Cartão,Concluída,Norte
+PED-000437,2025-10-05,C0053,Mariana Costa,Headset Bluetooth,Acessórios,1,284.58,10,Boleto,Concluída,Norte
+PED-000438,2025-07-23,C0166,Felipe Mendes,Monitor 27,Eletrônicos,1,1445.30,0,Cartão,Em processamento,Norte
+PED-000439,2026-07-07,C0022,Bruno Barbosa,Webcam Full HD,Acessórios,4,319.00,0,Pix,Concluída,Sudeste
+PED-000440,2025-01-23,C0119,Tatiana Gomes,Gaveteiro compacto,Móveis,3,454.93,0,Boleto,Concluída,Norte
+PED-000441,2025-07-07,C0045,Elisa Costa,Notebook Essential,Eletrônicos,2,2947.80,5,Boleto,Concluída,Sudeste
+PED-000442,2025-08-12,C0033,Mariana Barbosa,Estante modular,Móveis,2,813.70,5,Boleto,Concluída,Sudeste
+PED-000443,2026-06-28,C0049,Isabela Costa,Cadeira ergonômica,Móveis,4,1376.10,5,Transferência,Concluída,Centro-Oeste
+PED-000444,2026-06-05,C0031,Karen Barbosa,Gaveteiro compacto,Móveis,2,464.31,0,Pix,Concluída,Sul
+PED-000445,2026-03-02,C0024,Daniel Barbosa,Impressora Laser,Eletrônicos,1,1706.90,10,Transferência,Concluída,Nordeste
+PED-000446,2026-01-31,C0019,Tatiana Almeida,Notebook Pro,Eletrônicos,4,4332.90,10,Boleto,Concluída,Sudeste
+PED-000447,2025-04-03,C0129,Isabela Lima,Notebook Pro,Eletrônicos,2,4161.30,15,Cartão,Concluída,Norte
+PED-000448,2026-03-25,C0062,Bruno Dias,Impressora Laser,Eletrônicos,1,1690.00,0,Pix,Concluída,Sudeste
+PED-000449,2025-01-05,C0131,Karen Lima,Monitor 27,Eletrônicos,1,1475.10,5,Transferência,Concluída,Centro-Oeste
+PED-000450,2025-05-20,C0073,Mariana Dias,Notebook Pro,Eletrônicos,3,4204.20,0,Boleto,Concluída,Sul
+PED-000451,2025-07-19,C0023,Carla Barbosa,Tablet Plus,Eletrônicos,2,2161.40,10,Transferência,Concluída,Nordeste
+PED-000452,2026-01-12,C0019,Tatiana Almeida,Webcam Full HD,Acessórios,1,319.00,0,Pix,Concluída,Nordeste
+PED-000453,2025-11-20,C0033,Mariana Barbosa,Gaveteiro compacto,Móveis,4,464.31,0,Pix,Concluída,Norte
+PED-000454,2025-06-26,C0170,João Mendes,Teclado mecânico,Acessórios,2,391.02,15,Cartão,Concluída,Sudeste
+PED-000455,2025-02-10,C0079,Tatiana Dias,Gaveteiro compacto,Móveis,2,454.93,0,Boleto,Concluída,Sudeste
+PED-000456,2026-07-23,C0100,Vinícius Ferreira,Notebook Pro,Eletrônicos,1,4204.20,10,Transferência,Concluída,Sul
+PED-000457,2025-07-07,C0012,Lucas Almeida,Webcam Full HD,Acessórios,1,315.81,0,Transferência,Concluída,Centro-Oeste
+PED-000458,2025-07-13,C0142,Bruno Martins,Tablet Plus,Eletrônicos,3,2075.80,10,Cartão,Cancelada,Sul
+PED-000459,2026-08-23,C0070,João Dias,Suporte para notebook,Acessórios,3,192.78,15,Boleto,Concluída,Centro-Oeste
+PED-000460,2026-08-14,C0021,Ana Barbosa,Webcam Full HD,Acessórios,2,309.43,0,Transferência,Concluída,Sul
+PED-000461,2025-11-13,C0044,Daniel Costa,Estante modular,Móveis,2,805.80,5,Cartão,Concluída,Norte
+PED-000462,2026-04-09,C0072,Lucas Dias,Teclado mecânico,Acessórios,1,406.98,5,Transferência,Concluída,Nordeste
+PED-000463,2026-09-04,C0102,Bruno Gomes,Estante modular,Móveis,4,797.90,0,Boleto,Concluída,Sul
+PED-000464,2025-10-16,C0007,Gabriela Almeida,Gaveteiro compacto,Móveis,4,483.07,0,Cartão,Concluída,Norte
+PED-000465,2025-12-20,C0042,Bruno Costa,Monitor 27,Eletrônicos,4,1490.00,10,Cartão,Pendente,Centro-Oeste
+PED-000466,2025-03-27,C0091,Karen Ferreira,Estante modular,Móveis,2,805.80,5,Boleto,Concluída,Sul
+PED-000467,2026-01-29,C0139,Tatiana Lima,Teclado mecânico,Acessórios,3,410.97,15,Transferência,Concluída,Nordeste
+PED-000468,2025-06-29,C0111,Karen Gomes,Tablet Plus,Eletrônicos,4,2118.60,5,Boleto,Concluída,Sudeste
+PED-000469,2025-10-29,C0006,Felipe Almeida,Monitor 27,Eletrônicos,4,1475.10,0,Pix,Cancelada,Norte
+PED-000470,2025-10-26,C0121,Ana Lima,Monitor 27,Eletrônicos,1,1504.90,15,Transferência,Concluída,Sul
+PED-000471,2026-08-08,C0140,Vinícius Lima,Impressora Laser,Eletrônicos,2,1673.10,15,Transferência,Cancelada,Centro-Oeste
+PED-000472,2025-04-15,C0096,Paulo Ferreira,Smartphone X,Eletrônicos,1,2845.80,10,Pix,Em processamento,Nordeste
+PED-000473,2025-12-11,C0104,Daniel Gomes,Webcam Full HD,Acessórios,3,309.43,0,Pix,Concluída,Centro-Oeste
+PED-000474,2025-07-29,C0105,Elisa Gomes,Monitor 27,Eletrônicos,2,1504.90,0,Pix,Em processamento,Centro-Oeste
+PED-000475,2026-03-19,C0145,Elisa Martins,Teclado mecânico,Acessórios,4,406.98,0,Transferência,Concluída,Sudeste
+PED-000476,2025-05-12,C0033,Mariana Barbosa,Headset Bluetooth,Acessórios,3,287.37,0,Pix,Concluída,Nordeste
+PED-000477,2025-02-01,C0056,Paulo Costa,Teclado mecânico,Acessórios,2,402.99,5,Boleto,Concluída,Sul
+PED-000478,2026-08-13,C0103,Carla Gomes,Mouse sem fio,Acessórios,4,132.87,0,Pix,Cancelada,Centro-Oeste
+PED-000479,2026-05-25,C0055,Olivia Costa,Teclado mecânico,Acessórios,4,402.99,0,Pix,Concluída,Centro-Oeste
+PED-000480,2025-12-27,C0162,Bruno Mendes,Mouse sem fio,Acessórios,4,132.87,0,Pix,Concluída,Centro-Oeste
+PED-000481,2026-04-24,C0105,Elisa Gomes,Mesa para escritório,Móveis,1,1009.80,0,Cartão,Concluída,Sul
+PED-000482,2025-09-15,C0152,Lucas Martins,Estante modular,Móveis,2,766.30,5,Cartão,Concluída,Sul
+PED-000483,2025-09-11,C0157,Renata Martins,Teclado mecânico,Acessórios,3,391.02,0,Pix,Cancelada,Centro-Oeste
+PED-000484,2025-07-05,C0083,Carla Ferreira,Monitor 27,Eletrônicos,2,1504.90,0,Pix,Em processamento,Centro-Oeste
+PED-000485,2025-09-06,C0140,Vinícius Lima,Mesa para escritório,Móveis,2,1019.70,0,Boleto,Concluída,Sul
+PED-000486,2026-01-27,C0094,Nicolas Ferreira,Webcam Full HD,Acessórios,4,309.43,5,Cartão,Concluída,Norte
+PED-000487,2025-06-25,C0065,Elisa Dias,Mouse sem fio,Acessórios,3,130.29,0,Boleto,Concluída,Centro-Oeste
+PED-000488,2025-08-22,C0050,João Costa,Monitor 27,Eletrônicos,3,1534.70,10,Boleto,Cancelada,Sul
+PED-000489,2025-05-03,C0079,Tatiana Dias,Cadeira ergonômica,Móveis,3,1376.10,15,Cartão,Concluída,Centro-Oeste
+PED-000490,2025-12-28,C0073,Mariana Dias,Estante modular,Móveis,1,766.30,0,Pix,Concluída,Centro-Oeste
+PED-000491,2026-07-01,C0096,Paulo Ferreira,Cadeira ergonômica,Móveis,1,1376.10,15,Transferência,Concluída,Sul
+PED-000492,2025-12-03,C0023,Carla Barbosa,Gaveteiro compacto,Móveis,1,454.93,10,Cartão,Concluída,Sul
+PED-000493,2025-09-12,C0144,Daniel Martins,Smartphone X,Eletrônicos,4,2762.10,0,Pix,Em processamento,Sul
+PED-000494,2025-04-09,C0011,Karen Almeida,Cadeira ergonômica,Móveis,2,1376.10,5,Transferência,Concluída,Centro-Oeste
+PED-000495,2025-12-05,C0154,Nicolas Martins,Notebook Essential,Eletrônicos,3,2861.10,10,Transferência,Concluída,Nordeste
+PED-000496,2025-07-19,C0062,Bruno Dias,Tablet Plus,Eletrônicos,2,2075.80,0,Boleto,Concluída,Nordeste
+PED-000497,2025-07-24,C0078,Sérgio Dias,Mouse sem fio,Acessórios,4,132.87,0,Cartão,Pendente,Nordeste
+PED-000498,2026-02-10,C0132,Lucas Lima,Cadeira ergonômica,Móveis,4,1431.70,0,Boleto,Concluída,Centro-Oeste
+PED-000499,2025-03-13,C0033,Mariana Barbosa,Tablet Plus,Eletrônicos,1,2161.40,5,Pix,Concluída,Nordeste
+PED-000500,2025-07-11,C0160,Vinícius Martins,Smartphone X,Eletrônicos,4,2873.70,0,Boleto,Concluída,Nordeste
+PED-000501,2025-02-27,C0175,Olivia Mendes,Estante modular,Móveis,4,790.00,15,Cartão,Concluída,Centro-Oeste
+PED-000502,2025-11-01,C0176,Paulo Mendes,Estante modular,Móveis,3,797.90,0,Pix,Concluída,Sudeste
+PED-000503,2026-07-28,C0089,Isabela Ferreira,Notebook Essential,Eletrônicos,1,2947.80,5,Pix,Concluída,Sudeste
+PED-000504,2026-04-13,C0107,Gabriela Gomes,Impressora Laser,Eletrônicos,3,1690.00,0,Transferência,Concluída,Norte
+PED-000505,2025-10-27,C0025,Elisa Barbosa,Notebook Essential,Eletrônicos,3,2861.10,0,Pix,Concluída,Nordeste
+PED-000506,2026-09-12,C0052,Lucas Costa,Estante modular,Móveis,3,774.20,15,Cartão,Concluída,Nordeste
+PED-000507,2026-03-18,C0180,Vinícius Mendes,Notebook Essential,Eletrônicos,1,2803.30,5,Cartão,Concluída,Sudeste
+PED-000508,2026-07-06,C0105,Elisa Gomes,Mesa para escritório,Móveis,4,960.30,15,Transferência,Concluída,Sul
+PED-000509,2025-08-02,C0082,Bruno Ferreira,Impressora Laser,Eletrônicos,1,1723.80,0,Cartão,Concluída,Sul
+PED-000510,2025-03-20,C0166,Felipe Mendes,Notebook Pro,Eletrônicos,4,4204.20,0,Boleto,Concluída,Norte
+PED-000511,2025-05-24,C0022,Bruno Barbosa,Tablet Plus,Eletrônicos,2,2182.80,15,Transferência,Concluída,Centro-Oeste
+PED-000512,2026-01-30,C0126,Felipe Lima,Teclado mecânico,Acessórios,4,406.98,10,Transferência,Concluída,Norte
+PED-000513,2025-10-20,C0079,Tatiana Dias,Gaveteiro compacto,Móveis,2,478.38,10,Boleto,Concluída,Sul
+PED-000514,2025-12-07,C0128,Hugo Lima,Suporte para notebook,Acessórios,2,183.33,0,Transferência,Concluída,Nordeste
+PED-000515,2025-08-11,C0046,Felipe Costa,Headset Bluetooth,Acessórios,4,284.58,0,Boleto,Cancelada,Nordeste
+PED-000516,2025-12-15,C0056,Paulo Costa,Cadeira ergonômica,Móveis,1,1431.70,15,Cartão,Cancelada,Norte
+PED-000517,2026-09-03,C0025,Elisa Barbosa,Mouse sem fio,Acessórios,2,126.42,0,Transferência,Concluída,Sudeste
+PED-000518,2025-09-28,C0120,Vinícius Gomes,Suporte para notebook,Acessórios,3,183.33,10,Transferência,Concluída,Nordeste
+PED-000519,2026-09-15,C0071,Karen Dias,Webcam Full HD,Acessórios,3,309.43,5,Transferência,Concluída,Norte
+PED-000520,2025-05-14,C0172,Lucas Mendes,Impressora Laser,Eletrônicos,4,1690.00,5,Transferência,Concluída,Sudeste
+PED-000521,2025-12-12,C0058,Sérgio Costa,Monitor 27,Eletrônicos,4,1460.20,5,Boleto,Concluída,Centro-Oeste
+PED-000522,2026-07-19,C0101,Ana Gomes,Teclado mecânico,Acessórios,3,406.98,10,Transferência,Concluída,Norte
+PED-000523,2025-06-01,C0155,Olivia Martins,Tablet Plus,Eletrônicos,1,2118.60,10,Pix,Concluída,Sul
+PED-000524,2025-07-02,C0114,Nicolas Gomes,Teclado mecânico,Acessórios,2,391.02,0,Transferência,Concluída,Sul
+PED-000525,2025-03-13,C0114,Nicolas Gomes,Cadeira ergonômica,Móveis,1,1390.00,0,Cartão,Concluída,Sudeste
+PED-000526,2026-09-09,C0155,Olivia Martins,Headset Bluetooth,Acessórios,3,273.42,15,Cartão,Concluída,Nordeste
+PED-000527,2025-10-06,C0145,Elisa Martins,Teclado mecânico,Acessórios,2,399.00,10,Transferência,Concluída,Nordeste
+PED-000528,2025-05-02,C0132,Lucas Lima,Notebook Pro,Eletrônicos,1,4247.10,10,Transferência,Concluída,Sul
+PED-000529,2026-03-31,C0100,Vinícius Ferreira,Notebook Essential,Eletrônicos,4,2803.30,0,Cartão,Concluída,Norte
+PED-000530,2025-10-10,C0115,Olivia Gomes,Teclado mecânico,Acessórios,1,402.99,10,Pix,Pendente,Centro-Oeste
+PED-000531,2025-04-27,C0052,Lucas Costa,Smartphone X,Eletrônicos,4,2706.30,10,Transferência,Concluída,Sudeste
+PED-000532,2026-08-05,C0153,Mariana Martins,Cadeira ergonômica,Móveis,4,1390.00,5,Cartão,Pendente,Sul
+PED-000533,2026-06-21,C0009,Isabela Almeida,Teclado mecânico,Acessórios,2,406.98,10,Cartão,Concluída,Sul
+PED-000534,2025-01-03,C0071,Karen Dias,Headset Bluetooth,Acessórios,2,273.42,0,Cartão,Concluída,Centro-Oeste
+PED-000535,2025-07-25,C0174,Nicolas Mendes,Notebook Pro,Eletrônicos,2,4332.90,5,Pix,Concluída,Sudeste
+PED-000536,2025-10-25,C0011,Karen Almeida,Notebook Pro,Eletrônicos,3,4161.30,15,Cartão,Concluída,Sul
+PED-000537,2025-07-03,C0018,Sérgio Almeida,Teclado mecânico,Acessórios,1,387.03,5,Pix,Concluída,Centro-Oeste
+PED-000538,2025-12-30,C0157,Renata Martins,Teclado mecânico,Acessórios,1,402.99,15,Transferência,Concluída,Nordeste
+PED-000539,2026-01-27,C0142,Bruno Martins,Smartphone X,Eletrônicos,3,2873.70,0,Transferência,Pendente,Nordeste
+PED-000540,2026-09-09,C0061,Ana Dias,Cadeira ergonômica,Móveis,1,1348.30,15,Boleto,Concluída,Sul
+PED-000541,2025-06-28,C0110,João Gomes,Webcam Full HD,Acessórios,1,328.57,5,Transferência,Concluída,Norte
+PED-000542,2026-06-03,C0056,Paulo Costa,Estante modular,Móveis,1,782.10,10,Boleto,Concluída,Sul
+PED-000543,2025-12-21,C0042,Bruno Costa,Cadeira ergonômica,Móveis,1,1431.70,5,Cartão,Concluída,Sul
+PED-000544,2025-11-05,C0040,Vinícius Barbosa,Monitor 27,Eletrônicos,4,1534.70,10,Boleto,Concluída,Nordeste
+PED-000545,2026-04-29,C0068,Hugo Dias,Cadeira ergonômica,Móveis,2,1376.10,10,Boleto,Concluída,Nordeste
+PED-000546,2026-08-15,C0134,Nicolas Lima,Tablet Plus,Eletrônicos,1,2204.20,10,Cartão,Concluída,Sudeste
+PED-000547,2025-09-19,C0164,Daniel Mendes,Gaveteiro compacto,Móveis,3,483.07,0,Pix,Concluída,Sul
+PED-000548,2026-09-15,C0167,Gabriela Mendes,Smartphone X,Eletrônicos,4,2790.00,15,Transferência,Concluída,Sudeste
+PED-000549,2026-04-16,C0011,Karen Almeida,Gaveteiro compacto,Móveis,3,454.93,15,Transferência,Concluída,Norte
+PED-000550,2025-10-28,C0045,Elisa Costa,Notebook Essential,Eletrônicos,4,2832.20,15,Boleto,Cancelada,Nordeste
+PED-000551,2026-03-06,C0116,Paulo Gomes,Mouse sem fio,Acessórios,1,129.00,5,Transferência,Pendente,Sudeste
+PED-000552,2025-02-16,C0077,Renata Dias,Estante modular,Móveis,4,797.90,5,Pix,Pendente,Sudeste
+PED-000553,2025-03-12,C0064,Daniel Dias,Teclado mecânico,Acessórios,2,406.98,10,Transferência,Concluída,Norte
+PED-000554,2026-05-14,C0052,Lucas Costa,Webcam Full HD,Acessórios,2,319.00,0,Pix,Concluída,Sudeste
+PED-000555,2025-09-23,C0060,Vinícius Costa,Notebook Essential,Eletrônicos,4,2832.20,0,Pix,Concluída,Sul
+PED-000556,2025-09-16,C0063,Carla Dias,Tablet Plus,Eletrônicos,3,2140.00,10,Boleto,Concluída,Centro-Oeste
+PED-000557,2025-11-25,C0161,Ana Mendes,Webcam Full HD,Acessórios,4,325.38,10,Cartão,Concluída,Sul
+PED-000558,2025-06-13,C0091,Karen Ferreira,Monitor 27,Eletrônicos,3,1490.00,15,Boleto,Concluída,Nordeste
+PED-000559,2025-02-28,C0028,Hugo Barbosa,Smartphone X,Eletrônicos,3,2762.10,5,Boleto,Concluída,Sul
+PED-000560,2026-07-09,C0098,Sérgio Ferreira,Cadeira ergonômica,Móveis,2,1403.90,5,Boleto,Concluída,Centro-Oeste
+PED-000561,2025-05-16,C0076,Paulo Dias,Mesa para escritório,Móveis,1,990.00,0,Pix,Concluída,Sul
+PED-000562,2025-08-27,C0121,Ana Lima,Notebook Pro,Eletrônicos,4,4161.30,5,Cartão,Cancelada,Norte
+PED-000563,2026-08-14,C0003,Carla Almeida,Cadeira ergonômica,Móveis,1,1376.10,0,Pix,Concluída,Sudeste
+PED-000564,2025-02-25,C0141,Ana Martins,Impressora Laser,Eletrônicos,4,1690.00,10,Boleto,Concluída,Nordeste
+PED-000565,2026-03-12,C0073,Mariana Dias,Mesa para escritório,Móveis,3,1009.80,5,Pix,Concluída,Nordeste
+PED-000566,2025-10-02,C0111,Karen Gomes,Impressora Laser,Eletrônicos,1,1673.10,0,Transferência,Cancelada,Norte
+PED-000567,2025-03-20,C0036,Paulo Barbosa,Estante modular,Móveis,3,797.90,5,Boleto,Concluída,Sudeste
+PED-000568,2025-10-05,C0165,Elisa Mendes,Cadeira ergonômica,Móveis,3,1417.80,5,Pix,Concluída,Sudeste
+PED-000569,2026-04-30,C0014,Nicolas Almeida,Mesa para escritório,Móveis,2,990.00,0,Transferência,Concluída,Centro-Oeste
+PED-000570,2025-08-28,C0057,Renata Costa,Gaveteiro compacto,Móveis,2,483.07,0,Cartão,Cancelada,Centro-Oeste
+PED-000571,2026-08-06,C0122,Bruno Lima,Suporte para notebook,Acessórios,2,185.22,0,Transferência,Concluída,Sudeste
+PED-000572,2025-07-10,C0075,Olivia Dias,Suporte para notebook,Acessórios,4,189.00,10,Transferência,Concluída,Nordeste
+PED-000573,2025-10-01,C0096,Paulo Ferreira,Gaveteiro compacto,Móveis,3,473.69,0,Transferência,Concluída,Norte
+PED-000574,2026-08-31,C0094,Nicolas Ferreira,Headset Bluetooth,Acessórios,3,270.63,10,Pix,Concluída,Norte
+PED-000575,2026-08-22,C0101,Ana Gomes,Impressora Laser,Eletrônicos,2,1656.20,15,Pix,Pendente,Norte
+PED-000576,2026-02-18,C0037,Renata Barbosa,Smartphone X,Eletrônicos,2,2873.70,15,Transferência,Concluída,Centro-Oeste
+PED-000577,2025-09-21,C0082,Bruno Ferreira,Cadeira ergonômica,Móveis,3,1348.30,15,Cartão,Concluída,Sul
+PED-000578,2025-10-13,C0103,Carla Gomes,Gaveteiro compacto,Móveis,2,473.69,15,Transferência,Concluída,Sul
+PED-000579,2025-01-28,C0100,Vinícius Ferreira,Headset Bluetooth,Acessórios,1,273.42,0,Transferência,Pendente,Nordeste
+PED-000580,2025-08-16,C0016,Paulo Almeida,Headset Bluetooth,Acessórios,4,276.21,0,Cartão,Concluída,Centro-Oeste
+PED-000581,2025-12-14,C0095,Olivia Ferreira,Tablet Plus,Eletrônicos,2,2204.20,15,Cartão,Concluída,Centro-Oeste
+PED-000582,2025-07-18,C0050,João Costa,Notebook Essential,Eletrônicos,4,2861.10,0,Transferência,Concluída,Nordeste
+PED-000583,2025-06-28,C0098,Sérgio Ferreira,Cadeira ergonômica,Móveis,1,1362.20,5,Transferência,Concluída,Nordeste
+PED-000584,2026-09-10,C0058,Sérgio Costa,Suporte para notebook,Acessórios,3,187.11,5,Boleto,Em processamento,Sul
+PED-000585,2025-05-05,C0115,Olivia Gomes,Webcam Full HD,Acessórios,2,309.43,0,Transferência,Concluída,Centro-Oeste
+PED-000586,2026-05-14,C0180,Vinícius Mendes,Estante modular,Móveis,1,766.30,0,Cartão,Concluída,Norte
+PED-000587,2025-11-02,C0090,João Ferreira,Gaveteiro compacto,Móveis,3,464.31,5,Boleto,Cancelada,Sudeste
+PED-000588,2026-04-15,C0180,Vinícius Mendes,Impressora Laser,Eletrônicos,2,1690.00,0,Cartão,Concluída,Centro-Oeste
+PED-000589,2025-08-14,C0078,Sérgio Dias,Webcam Full HD,Acessórios,2,325.38,10,Boleto,Concluída,Norte
+PED-000590,2025-06-28,C0064,Daniel Dias,Estante modular,Móveis,4,782.10,5,Transferência,Concluída,Sul
+PED-000591,2026-06-10,C0087,Gabriela Ferreira,Notebook Essential,Eletrônicos,1,2861.10,0,Cartão,Pendente,Sul
+PED-000592,2025-03-02,C0074,Nicolas Dias,Notebook Pro,Eletrônicos,1,4332.90,15,Cartão,Cancelada,Nordeste
+PED-000593,2025-07-22,C0144,Daniel Martins,Suporte para notebook,Acessórios,1,183.33,5,Cartão,Concluída,Centro-Oeste
+PED-000594,2026-05-05,C0028,Hugo Barbosa,Cadeira ergonômica,Móveis,4,1403.90,0,Cartão,Concluída,Sudeste
+PED-000595,2026-03-11,C0067,Gabriela Dias,Headset Bluetooth,Acessórios,4,273.42,0,Pix,Concluída,Centro-Oeste
+PED-000596,2026-06-20,C0086,Felipe Ferreira,Notebook Pro,Eletrônicos,4,4418.70,0,Boleto,Concluída,Nordeste
+PED-000597,2026-06-14,C0068,Hugo Dias,Monitor 27,Eletrônicos,3,1519.80,10,Boleto,Concluída,Sul
+PED-000598,2026-09-01,C0084,Daniel Ferreira,Monitor 27,Eletrônicos,4,1519.80,5,Boleto,Concluída,Norte
+PED-000599,2026-03-22,C0098,Sérgio Ferreira,Headset Bluetooth,Acessórios,1,284.58,5,Transferência,Concluída,Nordeste
+PED-000600,2025-03-24,C0164,Daniel Mendes,Mesa para escritório,Móveis,4,990.00,15,Pix,Concluída,Norte
+PED-000601,2025-06-27,C0026,Felipe Barbosa,Gaveteiro compacto,Móveis,2,459.62,5,Transferência,Concluída,Norte
+PED-000602,2026-03-05,C0175,Olivia Mendes,Notebook Essential,Eletrônicos,2,2803.30,5,Pix,Cancelada,Sul
+PED-000603,2026-05-09,C0136,Paulo Lima,Impressora Laser,Eletrônicos,2,1656.20,10,Pix,Em processamento,Centro-Oeste
+PED-000604,2025-06-09,C0145,Elisa Martins,Tablet Plus,Eletrônicos,1,2097.20,0,Cartão,Concluída,Nordeste
+PED-000605,2025-04-27,C0121,Ana Lima,Tablet Plus,Eletrônicos,1,2182.80,0,Boleto,Cancelada,Centro-Oeste
+PED-000606,2026-04-06,C0177,Renata Mendes,Suporte para notebook,Acessórios,3,189.00,10,Transferência,Pendente,Centro-Oeste
+PED-000607,2025-10-29,C0150,João Martins,Notebook Pro,Eletrônicos,3,4418.70,0,Boleto,Concluída,Nordeste
+PED-000608,2025-11-26,C0117,Renata Gomes,Mesa para escritório,Móveis,1,990.00,0,Cartão,Concluída,Norte
+PED-000609,2025-05-26,C0119,Tatiana Gomes,Cadeira ergonômica,Móveis,3,1376.10,0,Pix,Em processamento,Norte
+PED-000610,2025-09-29,C0131,Karen Lima,Cadeira ergonômica,Móveis,2,1376.10,5,Transferência,Concluída,Sudeste
+PED-000611,2026-07-10,C0178,Sérgio Mendes,Smartphone X,Eletrônicos,4,2817.90,10,Boleto,Concluída,Nordeste
+PED-000612,2025-12-13,C0020,Vinícius Almeida,Mouse sem fio,Acessórios,3,126.42,5,Transferência,Concluída,Sul
+PED-000613,2025-12-04,C0132,Lucas Lima,Webcam Full HD,Acessórios,1,312.62,0,Transferência,Concluída,Nordeste
+PED-000614,2025-06-08,C0164,Daniel Mendes,Gaveteiro compacto,Móveis,3,464.31,0,Cartão,Concluída,Sudeste
+PED-000615,2025-04-18,C0152,Lucas Martins,Notebook Pro,Eletrônicos,3,4290.00,0,Cartão,Concluída,Norte
+PED-000616,2025-08-29,C0003,Carla Almeida,Monitor 27,Eletrônicos,2,1460.20,0,Pix,Cancelada,Nordeste
+PED-000617,2026-03-20,C0128,Hugo Lima,Suporte para notebook,Acessórios,4,187.11,5,Pix,Concluída,Norte
+PED-000618,2025-10-07,C0092,Lucas Ferreira,Notebook Pro,Eletrônicos,3,4418.70,0,Pix,Concluída,Norte
+PED-000619,2025-05-06,C0089,Isabela Ferreira,Estante modular,Móveis,2,813.70,5,Transferência,Concluída,Centro-Oeste
+PED-000620,2026-05-14,C0061,Ana Dias,Tablet Plus,Eletrônicos,3,2204.20,0,Pix,Concluída,Norte
+PED-000621,2025-04-18,C0145,Elisa Martins,Smartphone X,Eletrônicos,4,2845.80,0,Boleto,Concluída,Nordeste
+PED-000622,2026-01-25,C0074,Nicolas Dias,Mouse sem fio,Acessórios,3,127.71,0,Pix,Concluída,Norte
+PED-000623,2026-09-16,C0034,Nicolas Barbosa,Gaveteiro compacto,Móveis,2,469.00,5,Cartão,Concluída,Centro-Oeste
+PED-000624,2025-09-12,C0039,Tatiana Barbosa,Smartphone X,Eletrônicos,4,2873.70,10,Pix,Concluída,Norte
+PED-000625,2026-02-15,C0074,Nicolas Dias,Gaveteiro compacto,Móveis,3,478.38,5,Cartão,Concluída,Sul
+PED-000626,2025-11-23,C0055,Olivia Costa,Suporte para notebook,Acessórios,3,190.89,0,Cartão,Concluída,Sul
+PED-000627,2026-08-13,C0079,Tatiana Dias,Notebook Pro,Eletrônicos,1,4290.00,15,Pix,Concluída,Centro-Oeste
+PED-000628,2025-10-07,C0044,Daniel Costa,Impressora Laser,Eletrônicos,1,1706.90,10,Cartão,Cancelada,Nordeste
+PED-000629,2026-07-04,C0092,Lucas Ferreira,Gaveteiro compacto,Móveis,3,473.69,0,Pix,Concluída,Norte
+PED-000630,2025-12-10,C0165,Elisa Mendes,Smartphone X,Eletrônicos,3,2762.10,0,Boleto,Em processamento,Centro-Oeste
+PED-000631,2026-08-18,C0120,Vinícius Gomes,Smartphone X,Eletrônicos,3,2845.80,0,Transferência,Concluída,Centro-Oeste
+PED-000632,2025-09-13,C0101,Ana Gomes,Cadeira ergonômica,Móveis,1,1390.00,5,Cartão,Concluída,Norte
+PED-000633,2026-04-20,C0147,Gabriela Martins,Webcam Full HD,Acessórios,2,312.62,0,Transferência,Cancelada,Centro-Oeste
+PED-000634,2026-05-12,C0109,Isabela Gomes,Notebook Pro,Eletrônicos,2,4332.90,0,Boleto,Cancelada,Norte
+PED-000635,2025-02-12,C0124,Daniel Lima,Smartphone X,Eletrônicos,3,2817.90,5,Transferência,Concluída,Sul
+PED-000636,2026-07-17,C0089,Isabela Ferreira,Estante modular,Móveis,4,782.10,0,Cartão,Pendente,Sudeste
+PED-000637,2026-04-12,C0034,Nicolas Barbosa,Teclado mecânico,Acessórios,3,406.98,5,Cartão,Em processamento,Sul
+PED-000638,2025-12-24,C0137,Renata Lima,Mouse sem fio,Acessórios,4,132.87,5,Pix,Pendente,Sul
+PED-000639,2025-04-23,C0112,Lucas Gomes,Headset Bluetooth,Acessórios,2,281.79,5,Boleto,Pendente,Norte
+PED-000640,2025-08-20,C0147,Gabriela Martins,Mouse sem fio,Acessórios,4,125.13,0,Boleto,Concluída,Nordeste
+PED-000641,2025-03-05,C0170,João Mendes,Smartphone X,Eletrônicos,2,2734.20,5,Boleto,Concluída,Sul
+PED-000642,2026-04-15,C0112,Lucas Gomes,Impressora Laser,Eletrônicos,3,1690.00,10,Transferência,Concluída,Nordeste
+PED-000643,2026-05-22,C0014,Nicolas Almeida,Mouse sem fio,Acessórios,1,131.58,5,Boleto,Concluída,Norte
+PED-000644,2026-01-10,C0144,Daniel Martins,Smartphone X,Eletrônicos,2,2817.90,5,Pix,Concluída,Nordeste
+PED-000645,2025-04-29,C0014,Nicolas Almeida,Impressora Laser,Eletrônicos,3,1673.10,10,Transferência,Cancelada,Sudeste
+PED-000646,2025-08-17,C0077,Renata Dias,Webcam Full HD,Acessórios,3,328.57,15,Transferência,Concluída,Sul
+PED-000647,2025-04-26,C0114,Nicolas Gomes,Webcam Full HD,Acessórios,3,312.62,5,Cartão,Concluída,Sul
+PED-000648,2025-02-18,C0118,Sérgio Gomes,Mouse sem fio,Acessórios,3,127.71,0,Transferência,Concluída,Nordeste
+PED-000649,2025-03-19,C0104,Daniel Gomes,Webcam Full HD,Acessórios,2,328.57,5,Cartão,Concluída,Nordeste
+PED-000650,2025-07-15,C0004,Daniel Almeida,Mesa para escritório,Móveis,3,970.20,15,Transferência,Concluída,Sudeste
+PED-000651,2025-01-21,C0003,Carla Almeida,Teclado mecânico,Acessórios,1,410.97,0,Pix,Concluída,Norte
+PED-000652,2026-03-04,C0020,Vinícius Almeida,Impressora Laser,Eletrônicos,3,1723.80,15,Cartão,Concluída,Norte
+PED-000653,2025-07-29,C0050,João Costa,Impressora Laser,Eletrônicos,1,1639.30,10,Boleto,Concluída,Centro-Oeste
+PED-000654,2025-03-07,C0056,Paulo Costa,Teclado mecânico,Acessórios,1,387.03,10,Transferência,Concluída,Sul
+PED-000655,2026-06-01,C0091,Karen Ferreira,Notebook Essential,Eletrônicos,1,2832.20,5,Transferência,Concluída,Centro-Oeste
+PED-000656,2025-07-05,C0020,Vinícius Almeida,Cadeira ergonômica,Móveis,1,1348.30,15,Pix,Concluída,Nordeste
+PED-000657,2026-07-16,C0169,Isabela Mendes,Impressora Laser,Eletrônicos,4,1706.90,0,Transferência,Concluída,Sul
+PED-000658,2026-09-05,C0042,Bruno Costa,Teclado mecânico,Acessórios,3,410.97,5,Boleto,Concluída,Nordeste
+PED-000659,2025-09-05,C0069,Isabela Dias,Mesa para escritório,Móveis,1,999.90,5,Boleto,Pendente,Sul
+PED-000660,2025-05-12,C0164,Daniel Mendes,Mesa para escritório,Móveis,3,980.10,0,Boleto,Cancelada,Nordeste
+PED-000661,2026-03-10,C0101,Ana Gomes,Mouse sem fio,Acessórios,1,127.71,0,Pix,Concluída,Norte
+PED-000662,2026-07-04,C0014,Nicolas Almeida,Headset Bluetooth,Acessórios,3,284.58,0,Cartão,Concluída,Sudeste
+PED-000663,2025-04-07,C0103,Carla Gomes,Tablet Plus,Eletrônicos,2,2075.80,10,Pix,Concluída,Sudeste
+PED-000664,2025-12-03,C0026,Felipe Barbosa,Cadeira ergonômica,Móveis,1,1431.70,5,Transferência,Cancelada,Sul
+PED-000665,2026-03-26,C0015,Olivia Almeida,Teclado mecânico,Acessórios,2,395.01,5,Transferência,Concluída,Sul
+PED-000666,2025-01-20,C0064,Daniel Dias,Suporte para notebook,Acessórios,2,192.78,0,Pix,Cancelada,Nordeste
+PED-000667,2025-08-01,C0129,Isabela Lima,Cadeira ergonômica,Móveis,3,1390.00,0,Cartão,Concluída,Norte
+PED-000668,2026-08-10,C0093,Mariana Ferreira,Suporte para notebook,Acessórios,1,187.11,10,Boleto,Concluída,Sudeste
+PED-000669,2025-04-10,C0171,Karen Mendes,Mesa para escritório,Móveis,4,980.10,0,Cartão,Concluída,Sudeste
+PED-000670,2025-04-30,C0103,Carla Gomes,Notebook Essential,Eletrônicos,2,2976.70,10,Boleto,Concluída,Centro-Oeste
+PED-000671,2025-01-24,C0058,Sérgio Costa,Headset Bluetooth,Acessórios,4,281.79,10,Cartão,Concluída,Sudeste
+PED-000672,2025-08-17,C0046,Felipe Costa,Webcam Full HD,Acessórios,3,325.38,0,Boleto,Concluída,Nordeste
+PED-000673,2025-01-02,C0038,Sérgio Barbosa,Webcam Full HD,Acessórios,1,322.19,0,Boleto,Concluída,Sul
+PED-000674,2026-05-11,C0101,Ana Gomes,Cadeira ergonômica,Móveis,3,1362.20,0,Pix,Concluída,Sudeste
+PED-000675,2026-06-28,C0140,Vinícius Lima,Monitor 27,Eletrônicos,4,1460.20,0,Boleto,Concluída,Sul
+PED-000676,2026-02-26,C0089,Isabela Ferreira,Cadeira ergonômica,Móveis,1,1431.70,0,Transferência,Concluída,Sul
+PED-000677,2025-07-18,C0029,Isabela Barbosa,Smartphone X,Eletrônicos,1,2873.70,0,Boleto,Concluída,Nordeste
+PED-000678,2025-11-09,C0048,Hugo Costa,Mesa para escritório,Móveis,2,990.00,0,Transferência,Em processamento,Sudeste
+PED-000679,2026-01-18,C0059,Tatiana Costa,Teclado mecânico,Acessórios,3,402.99,0,Cartão,Concluída,Sul
+PED-000680,2025-06-21,C0028,Hugo Barbosa,Headset Bluetooth,Acessórios,4,279.00,10,Boleto,Concluída,Centro-Oeste
+PED-000681,2025-11-08,C0125,Elisa Lima,Tablet Plus,Eletrônicos,4,2161.40,0,Cartão,Concluída,Centro-Oeste
+PED-000682,2026-09-01,C0020,Vinícius Almeida,Notebook Essential,Eletrônicos,1,2918.90,5,Boleto,Em processamento,Nordeste
+PED-000683,2025-04-10,C0064,Daniel Dias,Mesa para escritório,Móveis,2,980.10,10,Boleto,Concluída,Nordeste
+PED-000684,2025-04-23,C0018,Sérgio Almeida,Teclado mecânico,Acessórios,1,395.01,5,Pix,Concluída,Centro-Oeste
+PED-000685,2025-02-06,C0146,Felipe Martins,Mesa para escritório,Móveis,3,960.30,0,Pix,Concluída,Sudeste
+PED-000686,2026-06-01,C0060,Vinícius Costa,Mesa para escritório,Móveis,1,990.00,0,Pix,Cancelada,Norte
+PED-000687,2025-12-05,C0088,Hugo Ferreira,Cadeira ergonômica,Móveis,1,1376.10,10,Cartão,Concluída,Centro-Oeste
+PED-000688,2025-03-23,C0091,Karen Ferreira,Gaveteiro compacto,Móveis,4,454.93,0,Cartão,Concluída,Nordeste
+PED-000689,2026-05-25,C0001,Ana Almeida,Notebook Pro,Eletrônicos,3,4204.20,5,Cartão,Pendente,Nordeste
+PED-000690,2025-02-02,C0170,João Mendes,Impressora Laser,Eletrônicos,2,1723.80,10,Boleto,Concluída,Sul
+PED-000691,2026-08-30,C0079,Tatiana Dias,Impressora Laser,Eletrônicos,2,1656.20,5,Boleto,Concluída,Sul
+PED-000692,2026-02-07,C0146,Felipe Martins,Headset Bluetooth,Acessórios,1,276.21,15,Pix,Concluída,Sudeste
+PED-000693,2025-11-18,C0085,Elisa Ferreira,Notebook Essential,Eletrônicos,1,2890.00,10,Transferência,Concluída,Centro-Oeste
+PED-000694,2025-10-01,C0037,Renata Barbosa,Notebook Essential,Eletrônicos,1,2861.10,15,Pix,Concluída,Nordeste
+PED-000695,2025-02-24,C0105,Elisa Gomes,Impressora Laser,Eletrônicos,1,1690.00,5,Pix,Concluída,Sudeste
+PED-000696,2025-04-18,C0126,Felipe Lima,Tablet Plus,Eletrônicos,1,2182.80,10,Pix,Concluída,Nordeste
+PED-000697,2025-06-12,C0066,Felipe Dias,Notebook Pro,Eletrônicos,3,4204.20,10,Boleto,Concluída,Centro-Oeste
+PED-000698,2026-04-03,C0136,Paulo Lima,Impressora Laser,Eletrônicos,1,1690.00,0,Pix,Cancelada,Centro-Oeste
+PED-000699,2026-07-07,C0120,Vinícius Gomes,Tablet Plus,Eletrônicos,3,2182.80,15,Transferência,Concluída,Centro-Oeste
+PED-000700,2026-03-23,C0161,Ana Mendes,Cadeira ergonômica,Móveis,1,1417.80,10,Cartão,Concluída,Nordeste
+PED-000701,2025-07-05,C0093,Mariana Ferreira,Teclado mecânico,Acessórios,1,410.97,15,Transferência,Concluída,Centro-Oeste
+PED-000702,2025-12-26,C0136,Paulo Lima,Mouse sem fio,Acessórios,1,126.42,0,Boleto,Concluída,Centro-Oeste
+PED-000703,2026-09-16,C0027,Gabriela Barbosa,Impressora Laser,Eletrônicos,2,1723.80,0,Transferência,Cancelada,Centro-Oeste
+PED-000704,2025-12-25,C0136,Paulo Lima,Headset Bluetooth,Acessórios,3,284.58,5,Cartão,Concluída,Sudeste
+PED-000705,2026-09-10,C0056,Paulo Costa,Notebook Essential,Eletrônicos,2,2947.80,0,Pix,Concluída,Sul
+PED-000706,2025-10-18,C0132,Lucas Lima,Mesa para escritório,Móveis,1,970.20,0,Transferência,Concluída,Norte
+PED-000707,2025-07-26,C0020,Vinícius Almeida,Mouse sem fio,Acessórios,2,132.87,15,Transferência,Concluída,Nordeste
+PED-000708,2025-02-28,C0007,Gabriela Almeida,Gaveteiro compacto,Móveis,1,483.07,0,Cartão,Concluída,Centro-Oeste
+PED-000709,2025-02-09,C0141,Ana Martins,Impressora Laser,Eletrônicos,4,1740.70,0,Pix,Cancelada,Norte
+PED-000710,2025-06-13,C0180,Vinícius Mendes,Tablet Plus,Eletrônicos,1,2161.40,0,Cartão,Concluída,Nordeste
+PED-000711,2025-05-05,C0120,Vinícius Gomes,Webcam Full HD,Acessórios,2,322.19,10,Boleto,Concluída,Nordeste
+PED-000712,2025-12-26,C0036,Paulo Barbosa,Tablet Plus,Eletrônicos,2,2161.40,0,Pix,Concluída,Sudeste
+PED-000713,2025-10-19,C0174,Nicolas Mendes,Monitor 27,Eletrônicos,4,1445.30,5,Pix,Concluída,Sul
+PED-000714,2025-01-15,C0139,Tatiana Lima,Cadeira ergonômica,Móveis,3,1417.80,15,Pix,Concluída,Norte
+PED-000715,2025-10-13,C0065,Elisa Dias,Webcam Full HD,Acessórios,2,325.38,10,Boleto,Concluída,Sudeste
+PED-000716,2026-03-14,C0017,Renata Almeida,Headset Bluetooth,Acessórios,3,273.42,5,Pix,Concluída,Sudeste
+PED-000717,2025-08-25,C0013,Mariana Almeida,Notebook Essential,Eletrônicos,3,2976.70,0,Transferência,Concluída,Norte
+PED-000718,2025-04-05,C0072,Lucas Dias,Webcam Full HD,Acessórios,1,325.38,15,Pix,Cancelada,Norte
+PED-000719,2025-07-15,C0004,Daniel Almeida,Estante modular,Móveis,4,805.80,5,Transferência,Concluída,Norte
+PED-000720,2025-04-16,C0017,Renata Almeida,Monitor 27,Eletrônicos,3,1460.20,0,Boleto,Concluída,Sul
+PED-000721,2025-06-03,C0035,Olivia Barbosa,Teclado mecânico,Acessórios,1,410.97,0,Transferência,Concluída,Norte
+PED-000722,2025-04-02,C0058,Sérgio Costa,Notebook Pro,Eletrônicos,3,4290.00,10,Pix,Concluída,Sul
+PED-000723,2026-05-03,C0166,Felipe Mendes,Monitor 27,Eletrônicos,4,1460.20,10,Cartão,Concluída,Nordeste
+PED-000724,2025-08-27,C0146,Felipe Martins,Impressora Laser,Eletrônicos,3,1723.80,10,Transferência,Cancelada,Sul
+PED-000725,2026-07-14,C0073,Mariana Dias,Mesa para escritório,Móveis,1,970.20,5,Boleto,Concluída,Nordeste
+PED-000726,2025-10-18,C0125,Elisa Lima,Estante modular,Móveis,4,797.90,0,Boleto,Concluída,Centro-Oeste
+PED-000727,2026-08-30,C0064,Daniel Dias,Headset Bluetooth,Acessórios,1,276.21,10,Boleto,Concluída,Sudeste
+PED-000728,2025-08-09,C0010,João Almeida,Monitor 27,Eletrônicos,4,1490.00,10,Transferência,Concluída,Nordeste
+PED-000729,2025-02-03,C0100,Vinícius Ferreira,Cadeira ergonômica,Móveis,2,1403.90,10,Pix,Cancelada,Sul
+PED-000730,2025-06-06,C0133,Mariana Lima,Smartphone X,Eletrônicos,1,2873.70,0,Pix,Concluída,Sudeste
+PED-000731,2026-02-26,C0168,Hugo Mendes,Monitor 27,Eletrônicos,1,1475.10,10,Cartão,Concluída,Norte
+PED-000732,2025-05-11,C0121,Ana Lima,Monitor 27,Eletrônicos,2,1490.00,10,Pix,Concluída,Centro-Oeste
+PED-000733,2026-06-20,C0028,Hugo Barbosa,Notebook Pro,Eletrônicos,1,4161.30,0,Transferência,Concluída,Sul
+PED-000734,2026-08-29,C0056,Paulo Costa,Webcam Full HD,Acessórios,1,325.38,15,Transferência,Concluída,Norte
+PED-000735,2026-08-19,C0030,João Barbosa,Notebook Pro,Eletrônicos,4,4290.00,10,Cartão,Cancelada,Norte
+PED-000736,2026-08-15,C0069,Isabela Dias,Webcam Full HD,Acessórios,3,315.81,0,Pix,Concluída,Nordeste
+PED-000737,2025-04-29,C0012,Lucas Almeida,Tablet Plus,Eletrônicos,4,2075.80,0,Boleto,Pendente,Sudeste
+PED-000738,2025-04-26,C0042,Bruno Costa,Cadeira ergonômica,Móveis,2,1362.20,0,Cartão,Em processamento,Sul
+PED-000739,2026-02-18,C0034,Nicolas Barbosa,Cadeira ergonômica,Móveis,3,1390.00,10,Pix,Concluída,Sul
+PED-000740,2025-07-15,C0144,Daniel Martins,Smartphone X,Eletrônicos,3,2817.90,10,Cartão,Concluída,Sudeste
+PED-000741,2026-07-14,C0172,Lucas Mendes,Notebook Pro,Eletrônicos,2,4418.70,10,Boleto,Concluída,Norte
+PED-000742,2025-01-16,C0061,Ana Dias,Monitor 27,Eletrônicos,3,1504.90,15,Cartão,Concluída,Norte
+PED-000743,2025-03-29,C0129,Isabela Lima,Mouse sem fio,Acessórios,2,130.29,15,Cartão,Pendente,Norte
+PED-000744,2026-08-27,C0040,Vinícius Barbosa,Estante modular,Móveis,3,797.90,0,Cartão,Concluída,Nordeste
+PED-000745,2025-05-31,C0135,Olivia Lima,Mouse sem fio,Acessórios,4,129.00,0,Transferência,Concluída,Sul
+PED-000746,2025-02-14,C0067,Gabriela Dias,Mesa para escritório,Móveis,4,990.00,10,Cartão,Concluída,Sudeste
+PED-000747,2025-11-13,C0086,Felipe Ferreira,Estante modular,Móveis,1,805.80,10,Pix,Concluída,Sudeste
+PED-000748,2025-07-04,C0162,Bruno Mendes,Mesa para escritório,Móveis,2,970.20,5,Pix,Concluída,Norte
+PED-000749,2025-04-07,C0077,Renata Dias,Estante modular,Móveis,4,813.70,5,Transferência,Concluída,Sul
+PED-000750,2026-03-19,C0012,Lucas Almeida,Monitor 27,Eletrônicos,3,1534.70,15,Cartão,Concluída,Norte
+PED-000751,2025-06-12,C0148,Hugo Martins,Tablet Plus,Eletrônicos,1,2161.40,10,Transferência,Concluída,Nordeste
+PED-000752,2025-12-15,C0147,Gabriela Martins,Cadeira ergonômica,Móveis,4,1417.80,5,Pix,Pendente,Sudeste
+PED-000753,2025-03-11,C0007,Gabriela Almeida,Webcam Full HD,Acessórios,3,322.19,15,Boleto,Concluída,Nordeste
+PED-000754,2025-05-02,C0028,Hugo Barbosa,Mesa para escritório,Móveis,3,1019.70,15,Cartão,Concluída,Sudeste
+PED-000755,2025-03-31,C0043,Carla Costa,Tablet Plus,Eletrônicos,2,2182.80,0,Cartão,Concluída,Centro-Oeste
+PED-000756,2025-05-05,C0050,João Costa,Mesa para escritório,Móveis,1,1019.70,10,Pix,Concluída,Centro-Oeste
+PED-000757,2026-03-27,C0128,Hugo Lima,Monitor 27,Eletrônicos,3,1445.30,0,Cartão,Concluída,Norte
+PED-000758,2026-08-29,C0012,Lucas Almeida,Smartphone X,Eletrônicos,1,2873.70,10,Transferência,Em processamento,Sul
+PED-000759,2025-10-24,C0159,Tatiana Martins,Notebook Pro,Eletrônicos,4,4332.90,15,Pix,Concluída,Nordeste
+PED-000760,2025-11-19,C0140,Vinícius Lima,Tablet Plus,Eletrônicos,2,2204.20,5,Cartão,Concluída,Sudeste
+PED-000761,2025-08-08,C0177,Renata Mendes,Estante modular,Móveis,2,813.70,5,Transferência,Em processamento,Sudeste
+PED-000762,2026-08-20,C0110,João Gomes,Mouse sem fio,Acessórios,1,129.00,0,Transferência,Concluída,Norte
+PED-000763,2025-09-07,C0090,João Ferreira,Notebook Pro,Eletrônicos,3,4418.70,0,Transferência,Cancelada,Centro-Oeste
+PED-000764,2025-01-30,C0166,Felipe Mendes,Gaveteiro compacto,Móveis,3,483.07,10,Transferência,Concluída,Norte
+PED-000765,2025-08-18,C0151,Karen Martins,Mesa para escritório,Móveis,4,960.30,5,Pix,Concluída,Nordeste
+PED-000766,2026-07-05,C0155,Olivia Martins,Estante modular,Móveis,3,766.30,0,Boleto,Concluída,Sul
+PED-000767,2026-04-18,C0043,Carla Costa,Impressora Laser,Eletrônicos,2,1690.00,10,Cartão,Concluída,Norte
+PED-000768,2025-07-27,C0085,Elisa Ferreira,Gaveteiro compacto,Móveis,2,483.07,10,Boleto,Concluída,Centro-Oeste
+PED-000769,2026-05-24,C0041,Ana Costa,Suporte para notebook,Acessórios,3,185.22,0,Transferência,Concluída,Centro-Oeste
+PED-000770,2026-07-10,C0005,Elisa Almeida,Teclado mecânico,Acessórios,2,387.03,0,Boleto,Cancelada,Centro-Oeste
+PED-000771,2025-11-29,C0036,Paulo Barbosa,Smartphone X,Eletrônicos,2,2762.10,5,Cartão,Concluída,Sul
+PED-000772,2026-08-03,C0119,Tatiana Gomes,Teclado mecânico,Acessórios,4,402.99,0,Boleto,Concluída,Sudeste
+PED-000773,2026-01-17,C0160,Vinícius Martins,Cadeira ergonômica,Móveis,2,1417.80,15,Boleto,Concluída,Sudeste
+PED-000774,2026-08-06,C0025,Elisa Barbosa,Monitor 27,Eletrônicos,2,1534.70,15,Transferência,Concluída,Nordeste
+PED-000775,2025-02-22,C0159,Tatiana Martins,Mouse sem fio,Acessórios,4,132.87,0,Cartão,Concluída,Norte
+PED-000776,2026-05-31,C0080,Vinícius Dias,Gaveteiro compacto,Móveis,3,469.00,10,Pix,Concluída,Norte
+PED-000777,2026-01-19,C0155,Olivia Martins,Smartphone X,Eletrônicos,4,2706.30,5,Pix,Concluída,Sul
+PED-000778,2026-04-12,C0121,Ana Lima,Teclado mecânico,Acessórios,1,402.99,15,Transferência,Concluída,Nordeste
+PED-000779,2026-01-06,C0131,Karen Lima,Teclado mecânico,Acessórios,3,402.99,15,Transferência,Concluída,Sul
+PED-000780,2026-02-16,C0060,Vinícius Costa,Webcam Full HD,Acessórios,1,315.81,5,Cartão,Concluída,Sudeste
+PED-000781,2025-02-20,C0172,Lucas Mendes,Smartphone X,Eletrônicos,2,2734.20,0,Pix,Concluída,Nordeste
+PED-000782,2025-09-01,C0098,Sérgio Ferreira,Cadeira ergonômica,Móveis,2,1348.30,0,Cartão,Concluída,Centro-Oeste
+PED-000783,2025-10-15,C0079,Tatiana Dias,Tablet Plus,Eletrônicos,3,2140.00,0,Cartão,Concluída,Norte
+PED-000784,2025-08-01,C0160,Vinícius Martins,Estante modular,Móveis,1,766.30,10,Boleto,Concluída,Sudeste
+PED-000785,2025-09-13,C0007,Gabriela Almeida,Suporte para notebook,Acessórios,3,185.22,0,Cartão,Concluída,Sul
+PED-000786,2026-02-02,C0019,Tatiana Almeida,Suporte para notebook,Acessórios,4,187.11,0,Transferência,Concluída,Sul
+PED-000787,2025-12-31,C0153,Mariana Martins,Suporte para notebook,Acessórios,3,190.89,0,Boleto,Concluída,Centro-Oeste
+PED-000788,2025-01-09,C0017,Renata Almeida,Notebook Essential,Eletrônicos,2,2803.30,10,Transferência,Concluída,Sudeste
+PED-000789,2025-05-06,C0173,Mariana Mendes,Webcam Full HD,Acessórios,2,328.57,0,Transferência,Concluída,Norte
+PED-000790,2026-03-29,C0002,Bruno Almeida,Mesa para escritório,Móveis,2,980.10,0,Transferência,Concluída,Centro-Oeste
+PED-000791,2026-03-31,C0083,Carla Ferreira,Impressora Laser,Eletrônicos,4,1656.20,5,Boleto,Concluída,Centro-Oeste
+PED-000792,2025-10-31,C0037,Renata Barbosa,Smartphone X,Eletrônicos,3,2762.10,15,Cartão,Concluída,Norte
+PED-000793,2026-09-07,C0079,Tatiana Dias,Suporte para notebook,Acessórios,1,187.11,0,Boleto,Concluída,Sudeste
+PED-000794,2025-05-24,C0016,Paulo Almeida,Headset Bluetooth,Acessórios,1,287.37,10,Pix,Cancelada,Norte
+PED-000795,2025-10-02,C0166,Felipe Mendes,Notebook Essential,Eletrônicos,4,2976.70,5,Pix,Concluída,Nordeste
+PED-000796,2025-11-03,C0130,João Lima,Impressora Laser,Eletrônicos,4,1673.10,5,Transferência,Concluída,Norte
+PED-000797,2025-04-25,C0045,Elisa Costa,Cadeira ergonômica,Móveis,1,1390.00,15,Cartão,Concluída,Norte
+PED-000798,2025-02-26,C0124,Daniel Lima,Notebook Essential,Eletrônicos,4,2803.30,0,Transferência,Concluída,Nordeste
+PED-000799,2025-05-08,C0014,Nicolas Almeida,Notebook Essential,Eletrônicos,3,2947.80,0,Pix,Concluída,Sudeste
+PED-000800,2025-10-15,C0111,Karen Gomes,Gaveteiro compacto,Móveis,4,464.31,10,Transferência,Concluída,Nordeste
+PED-000801,2025-04-03,C0092,Lucas Ferreira,Cadeira ergonômica,Móveis,3,1431.70,0,Boleto,Concluída,Centro-Oeste
+PED-000802,2025-01-17,C0180,Vinícius Mendes,Teclado mecânico,Acessórios,4,402.99,10,Transferência,Concluída,Norte
+PED-000803,2026-05-26,C0073,Mariana Dias,Impressora Laser,Eletrônicos,1,1723.80,5,Boleto,Concluída,Centro-Oeste
+PED-000804,2026-02-25,C0002,Bruno Almeida,Cadeira ergonômica,Móveis,3,1348.30,15,Boleto,Cancelada,Norte
+PED-000805,2025-07-28,C0178,Sérgio Mendes,Estante modular,Móveis,4,774.20,0,Pix,Concluída,Sudeste
+PED-000806,2026-07-09,C0071,Karen Dias,Mouse sem fio,Acessórios,1,127.71,5,Transferência,Concluída,Sul
+PED-000807,2025-03-25,C0160,Vinícius Martins,Webcam Full HD,Acessórios,3,328.57,0,Cartão,Concluída,Nordeste
+PED-000808,2026-08-02,C0150,João Martins,Estante modular,Móveis,2,774.20,0,Transferência,Concluída,Nordeste
+PED-000809,2026-08-19,C0101,Ana Gomes,Mesa para escritório,Móveis,4,970.20,0,Cartão,Cancelada,Sudeste
+PED-000810,2026-03-07,C0148,Hugo Martins,Mesa para escritório,Móveis,3,980.10,0,Boleto,Concluída,Sudeste
+PED-000811,2026-03-16,C0126,Felipe Lima,Impressora Laser,Eletrônicos,2,1690.00,10,Transferência,Concluída,Sul
+PED-000812,2025-03-21,C0043,Carla Costa,Mouse sem fio,Acessórios,3,132.87,15,Transferência,Cancelada,Sul
+PED-000813,2026-02-26,C0077,Renata Dias,Gaveteiro compacto,Móveis,3,483.07,0,Pix,Pendente,Sul
+PED-000814,2025-08-11,C0120,Vinícius Gomes,Notebook Pro,Eletrônicos,2,4332.90,15,Pix,Concluída,Centro-Oeste
+PED-000815,2026-08-11,C0042,Bruno Costa,Tablet Plus,Eletrônicos,4,2204.20,0,Boleto,Concluída,Norte
+PED-000816,2025-10-03,C0143,Carla Martins,Headset Bluetooth,Acessórios,4,270.63,15,Pix,Concluída,Sudeste
+PED-000817,2025-05-15,C0113,Mariana Gomes,Teclado mecânico,Acessórios,4,387.03,0,Cartão,Concluída,Sudeste
+PED-000818,2025-09-26,C0134,Nicolas Lima,Smartphone X,Eletrônicos,4,2845.80,10,Pix,Concluída,Sudeste
+PED-000819,2026-05-31,C0058,Sérgio Costa,Impressora Laser,Eletrônicos,4,1723.80,10,Transferência,Concluída,Centro-Oeste
+PED-000820,2026-07-04,C0122,Bruno Lima,Notebook Essential,Eletrônicos,4,2947.80,0,Transferência,Concluída,Sul
+PED-000821,2026-06-30,C0164,Daniel Mendes,Cadeira ergonômica,Móveis,2,1348.30,5,Boleto,Concluída,Sudeste
+PED-000822,2025-06-15,C0060,Vinícius Costa,Webcam Full HD,Acessórios,3,309.43,5,Pix,Concluída,Centro-Oeste
+PED-000823,2025-07-11,C0134,Nicolas Lima,Smartphone X,Eletrônicos,1,2706.30,5,Boleto,Concluída,Norte
+PED-000824,2025-10-24,C0083,Carla Ferreira,Tablet Plus,Eletrônicos,2,2075.80,0,Boleto,Concluída,Sudeste
+PED-000825,2025-08-12,C0030,João Barbosa,Monitor 27,Eletrônicos,3,1490.00,0,Cartão,Concluída,Sul
+PED-000826,2025-10-23,C0048,Hugo Costa,Gaveteiro compacto,Móveis,1,469.00,15,Boleto,Concluída,Norte
+PED-000827,2026-07-07,C0060,Vinícius Costa,Cadeira ergonômica,Móveis,2,1417.80,0,Transferência,Concluída,Centro-Oeste
+PED-000828,2025-10-05,C0030,João Barbosa,Mouse sem fio,Acessórios,3,129.00,0,Transferência,Cancelada,Centro-Oeste
+PED-000829,2025-10-31,C0135,Olivia Lima,Webcam Full HD,Acessórios,2,322.19,5,Pix,Cancelada,Centro-Oeste
+PED-000830,2026-02-04,C0125,Elisa Lima,Tablet Plus,Eletrônicos,1,2182.80,10,Pix,Concluída,Norte
+PED-000831,2025-02-04,C0040,Vinícius Barbosa,Headset Bluetooth,Acessórios,2,270.63,0,Cartão,Concluída,Norte
+PED-000832,2026-08-23,C0123,Carla Lima,Teclado mecânico,Acessórios,2,391.02,10,Transferência,Em processamento,Sudeste
+PED-000833,2025-12-15,C0107,Gabriela Gomes,Smartphone X,Eletrônicos,2,2790.00,10,Pix,Pendente,Sul
+PED-000834,2025-12-19,C0160,Vinícius Martins,Cadeira ergonômica,Móveis,4,1348.30,10,Cartão,Concluída,Nordeste
+PED-000835,2026-01-05,C0025,Elisa Barbosa,Impressora Laser,Eletrônicos,4,1740.70,5,Boleto,Concluída,Sul
+PED-000836,2025-09-24,C0138,Sérgio Lima,Headset Bluetooth,Acessórios,1,273.42,0,Cartão,Concluída,Nordeste
+PED-000837,2025-11-19,C0158,Sérgio Martins,Mouse sem fio,Acessórios,4,132.87,0,Pix,Concluída,Nordeste
+PED-000838,2025-12-17,C0043,Carla Costa,Teclado mecânico,Acessórios,4,391.02,5,Cartão,Concluída,Nordeste
+PED-000839,2026-06-12,C0141,Ana Martins,Smartphone X,Eletrônicos,1,2873.70,0,Cartão,Concluída,Sul
+PED-000840,2025-09-23,C0024,Daniel Barbosa,Estante modular,Móveis,4,790.00,0,Pix,Concluída,Centro-Oeste
+PED-000841,2025-05-08,C0105,Elisa Gomes,Suporte para notebook,Acessórios,1,189.00,10,Cartão,Concluída,Centro-Oeste
+PED-000842,2025-12-14,C0066,Felipe Dias,Notebook Essential,Eletrônicos,1,2918.90,0,Boleto,Concluída,Norte
+PED-000843,2025-11-25,C0103,Carla Gomes,Mouse sem fio,Acessórios,3,129.00,10,Boleto,Cancelada,Nordeste
+PED-000844,2026-02-25,C0084,Daniel Ferreira,Smartphone X,Eletrônicos,4,2817.90,10,Cartão,Em processamento,Centro-Oeste
+PED-000845,2025-06-27,C0059,Tatiana Costa,Monitor 27,Eletrônicos,2,1445.30,0,Pix,Em processamento,Sul
+PED-000846,2025-01-20,C0165,Elisa Mendes,Suporte para notebook,Acessórios,2,190.89,10,Cartão,Concluída,Sudeste
+PED-000847,2026-03-03,C0073,Mariana Dias,Smartphone X,Eletrônicos,4,2845.80,10,Transferência,Em processamento,Sul
+PED-000848,2026-03-04,C0049,Isabela Costa,Smartphone X,Eletrônicos,4,2762.10,0,Pix,Concluída,Nordeste
+PED-000849,2026-03-03,C0036,Paulo Barbosa,Gaveteiro compacto,Móveis,1,464.31,10,Cartão,Concluída,Nordeste
+PED-000850,2025-02-01,C0094,Nicolas Ferreira,Tablet Plus,Eletrônicos,2,2075.80,15,Transferência,Cancelada,Nordeste
+PED-000851,2026-05-14,C0049,Isabela Costa,Estante modular,Móveis,2,782.10,10,Boleto,Concluída,Nordeste
+PED-000852,2026-09-14,C0168,Hugo Mendes,Headset Bluetooth,Acessórios,4,279.00,0,Cartão,Concluída,Sul
+PED-000853,2026-01-14,C0096,Paulo Ferreira,Tablet Plus,Eletrônicos,1,2161.40,5,Boleto,Concluída,Norte
+PED-000854,2026-07-16,C0177,Renata Mendes,Monitor 27,Eletrônicos,2,1445.30,5,Transferência,Concluída,Centro-Oeste
+PED-000855,2025-06-03,C0126,Felipe Lima,Webcam Full HD,Acessórios,2,309.43,5,Boleto,Concluída,Norte
+PED-000856,2025-02-26,C0073,Mariana Dias,Impressora Laser,Eletrônicos,3,1656.20,5,Cartão,Concluída,Norte
+PED-000857,2025-10-16,C0155,Olivia Martins,Headset Bluetooth,Acessórios,4,270.63,0,Transferência,Concluída,Norte
+PED-000858,2025-03-04,C0114,Nicolas Gomes,Monitor 27,Eletrônicos,2,1460.20,0,Boleto,Concluída,Sul
+PED-000859,2025-11-26,C0080,Vinícius Dias,Webcam Full HD,Acessórios,1,322.19,10,Transferência,Concluída,Norte
+PED-000860,2025-10-11,C0065,Elisa Dias,Impressora Laser,Eletrônicos,4,1673.10,0,Cartão,Concluída,Centro-Oeste
+PED-000861,2025-06-30,C0078,Sérgio Dias,Impressora Laser,Eletrônicos,1,1706.90,5,Transferência,Concluída,Norte
+PED-000862,2026-06-05,C0079,Tatiana Dias,Webcam Full HD,Acessórios,1,309.43,5,Cartão,Concluída,Nordeste
+PED-000863,2025-01-10,C0005,Elisa Almeida,Estante modular,Móveis,2,790.00,5,Cartão,Concluída,Centro-Oeste
+PED-000864,2025-08-03,C0144,Daniel Martins,Gaveteiro compacto,Móveis,4,473.69,10,Boleto,Concluída,Centro-Oeste
+PED-000865,2025-10-30,C0016,Paulo Almeida,Mesa para escritório,Móveis,3,1009.80,0,Transferência,Concluída,Norte
+PED-000866,2026-09-07,C0065,Elisa Dias,Gaveteiro compacto,Móveis,3,478.38,0,Pix,Concluída,Sul
+PED-000867,2025-03-27,C0150,João Martins,Gaveteiro compacto,Móveis,1,473.69,10,Boleto,Concluída,Nordeste
+PED-000868,2025-05-10,C0064,Daniel Dias,Notebook Essential,Eletrônicos,4,2976.70,5,Transferência,Concluída,Sul
+PED-000869,2026-08-11,C0066,Felipe Dias,Estante modular,Móveis,1,774.20,5,Transferência,Concluída,Sul
+PED-000870,2025-09-01,C0170,João Mendes,Impressora Laser,Eletrônicos,1,1656.20,10,Boleto,Concluída,Sul
+PED-000871,2025-05-21,C0172,Lucas Mendes,Monitor 27,Eletrônicos,4,1519.80,0,Pix,Concluída,Sudeste
+PED-000872,2026-07-01,C0154,Nicolas Martins,Monitor 27,Eletrônicos,3,1490.00,0,Pix,Concluída,Sul
+PED-000873,2026-07-13,C0015,Olivia Almeida,Notebook Essential,Eletrônicos,4,2803.30,5,Transferência,Concluída,Nordeste
+PED-000874,2025-01-14,C0044,Daniel Costa,Webcam Full HD,Acessórios,4,312.62,10,Pix,Concluída,Nordeste
+PED-000875,2025-10-12,C0016,Paulo Almeida,Suporte para notebook,Acessórios,4,187.11,10,Transferência,Concluída,Sudeste
+PED-000876,2026-07-24,C0159,Tatiana Martins,Suporte para notebook,Acessórios,3,187.11,10,Transferência,Concluída,Norte
+PED-000877,2025-02-22,C0150,João Martins,Webcam Full HD,Acessórios,4,325.38,5,Transferência,Concluída,Centro-Oeste
+PED-000878,2025-03-08,C0075,Olivia Dias,Impressora Laser,Eletrônicos,1,1690.00,10,Cartão,Concluída,Sudeste
+PED-000879,2026-01-22,C0178,Sérgio Mendes,Mesa para escritório,Móveis,2,990.00,15,Pix,Concluída,Sudeste
+PED-000880,2026-05-03,C0061,Ana Dias,Headset Bluetooth,Acessórios,2,287.37,0,Boleto,Concluída,Sudeste
+PED-000881,2025-01-29,C0019,Tatiana Almeida,Webcam Full HD,Acessórios,4,325.38,0,Pix,Concluída,Sul
+PED-000882,2025-10-31,C0141,Ana Martins,Suporte para notebook,Acessórios,2,187.11,0,Pix,Concluída,Norte
+PED-000883,2026-01-30,C0076,Paulo Dias,Mesa para escritório,Móveis,1,1019.70,0,Boleto,Concluída,Nordeste
+PED-000884,2026-03-13,C0054,Nicolas Costa,Cadeira ergonômica,Móveis,3,1348.30,10,Transferência,Concluída,Nordeste
+PED-000885,2026-01-06,C0179,Tatiana Mendes,Smartphone X,Eletrônicos,3,2845.80,5,Transferência,Concluída,Centro-Oeste
+PED-000886,2026-03-09,C0013,Mariana Almeida,Notebook Essential,Eletrônicos,2,2976.70,15,Transferência,Concluída,Norte
+PED-000887,2025-01-17,C0110,João Gomes,Estante modular,Móveis,4,790.00,0,Boleto,Concluída,Nordeste
+PED-000888,2025-07-25,C0123,Carla Lima,Suporte para notebook,Acessórios,3,183.33,5,Cartão,Concluída,Sul
+PED-000889,2026-06-20,C0121,Ana Lima,Teclado mecânico,Acessórios,4,387.03,0,Pix,Concluída,Centro-Oeste
+PED-000890,2025-12-06,C0012,Lucas Almeida,Notebook Pro,Eletrônicos,2,4418.70,0,Pix,Concluída,Norte
+PED-000891,2026-06-23,C0099,Tatiana Ferreira,Notebook Pro,Eletrônicos,1,4290.00,0,Boleto,Concluída,Centro-Oeste
+PED-000892,2026-03-17,C0079,Tatiana Dias,Impressora Laser,Eletrônicos,2,1673.10,0,Cartão,Concluída,Nordeste
+PED-000893,2025-09-27,C0014,Nicolas Almeida,Notebook Essential,Eletrônicos,4,2976.70,10,Boleto,Concluída,Sudeste
+PED-000894,2025-06-04,C0020,Vinícius Almeida,Notebook Pro,Eletrônicos,1,4375.80,0,Boleto,Concluída,Norte
+PED-000895,2026-04-11,C0124,Daniel Lima,Notebook Pro,Eletrônicos,4,4418.70,10,Cartão,Concluída,Nordeste
+PED-000896,2025-01-13,C0064,Daniel Dias,Smartphone X,Eletrônicos,3,2734.20,15,Pix,Concluída,Centro-Oeste
+PED-000897,2025-10-10,C0104,Daniel Gomes,Tablet Plus,Eletrônicos,1,2140.00,5,Boleto,Concluída,Nordeste
+PED-000898,2025-06-24,C0169,Isabela Mendes,Monitor 27,Eletrônicos,3,1534.70,0,Transferência,Concluída,Centro-Oeste
+PED-000899,2026-08-09,C0175,Olivia Mendes,Smartphone X,Eletrônicos,2,2845.80,10,Boleto,Concluída,Sudeste
+PED-000900,2025-04-18,C0128,Hugo Lima,Monitor 27,Eletrônicos,2,1519.80,5,Transferência,Concluída,Sudeste
+PED-000901,2026-03-23,C0088,Hugo Ferreira,Mouse sem fio,Acessórios,4,125.13,10,Boleto,Concluída,Norte
+PED-000902,2025-12-26,C0169,Isabela Mendes,Webcam Full HD,Acessórios,1,315.81,0,Transferência,Cancelada,Nordeste
+PED-000903,2026-04-05,C0021,Ana Barbosa,Mesa para escritório,Móveis,3,1009.80,0,Pix,Concluída,Sudeste
+PED-000904,2025-05-16,C0048,Hugo Costa,Impressora Laser,Eletrônicos,2,1656.20,0,Transferência,Concluída,Sul
+PED-000905,2025-03-19,C0126,Felipe Lima,Estante modular,Móveis,2,797.90,5,Boleto,Concluída,Nordeste
+PED-000906,2026-04-28,C0139,Tatiana Lima,Mesa para escritório,Móveis,1,980.10,5,Pix,Em processamento,Norte
+PED-000907,2026-01-03,C0106,Felipe Gomes,Notebook Pro,Eletrônicos,4,4332.90,0,Boleto,Concluída,Norte
+PED-000908,2025-03-04,C0067,Gabriela Dias,Tablet Plus,Eletrônicos,1,2075.80,0,Transferência,Concluída,Sudeste
+PED-000909,2025-02-18,C0149,Isabela Martins,Impressora Laser,Eletrônicos,3,1740.70,5,Transferência,Em processamento,Centro-Oeste
+PED-000910,2025-12-03,C0169,Isabela Mendes,Impressora Laser,Eletrônicos,1,1706.90,5,Boleto,Concluída,Nordeste
+PED-000911,2026-02-03,C0150,João Martins,Estante modular,Móveis,1,782.10,0,Cartão,Concluída,Sudeste
+PED-000912,2025-07-26,C0048,Hugo Costa,Gaveteiro compacto,Móveis,2,469.00,5,Pix,Concluída,Nordeste
+PED-000913,2026-01-17,C0116,Paulo Gomes,Impressora Laser,Eletrônicos,4,1639.30,0,Transferência,Concluída,Sul
+PED-000914,2025-05-31,C0138,Sérgio Lima,Webcam Full HD,Acessórios,4,328.57,0,Boleto,Concluída,Norte
+PED-000915,2026-02-17,C0099,Tatiana Ferreira,Estante modular,Móveis,2,790.00,5,Boleto,Concluída,Nordeste
+PED-000916,2025-10-20,C0132,Lucas Lima,Suporte para notebook,Acessórios,4,185.22,0,Transferência,Concluída,Nordeste
+PED-000917,2025-08-11,C0121,Ana Lima,Impressora Laser,Eletrônicos,4,1673.10,15,Boleto,Concluída,Sudeste
+PED-000918,2025-10-29,C0148,Hugo Martins,Mouse sem fio,Acessórios,1,132.87,0,Pix,Concluída,Sul
+PED-000919,2026-01-04,C0021,Ana Barbosa,Webcam Full HD,Acessórios,1,312.62,0,Transferência,Cancelada,Nordeste
+PED-000920,2025-12-27,C0126,Felipe Lima,Notebook Essential,Eletrônicos,4,2947.80,5,Cartão,Pendente,Centro-Oeste
+PED-000921,2026-03-06,C0036,Paulo Barbosa,Cadeira ergonômica,Móveis,4,1403.90,5,Boleto,Concluída,Sul
+PED-000922,2025-06-05,C0151,Karen Martins,Estante modular,Móveis,3,805.80,5,Cartão,Concluída,Centro-Oeste
+PED-000923,2025-02-23,C0092,Lucas Ferreira,Headset Bluetooth,Acessórios,3,270.63,0,Cartão,Concluída,Centro-Oeste
+PED-000924,2025-01-16,C0096,Paulo Ferreira,Notebook Essential,Eletrônicos,4,2947.80,15,Cartão,Concluída,Nordeste
+PED-000925,2025-12-28,C0031,Karen Barbosa,Smartphone X,Eletrônicos,3,2817.90,5,Transferência,Concluída,Sul
+PED-000926,2026-03-27,C0098,Sérgio Ferreira,Teclado mecânico,Acessórios,3,399.00,5,Boleto,Concluída,Centro-Oeste
+PED-000927,2026-06-20,C0041,Ana Costa,Suporte para notebook,Acessórios,2,190.89,10,Transferência,Concluída,Norte
+PED-000928,2025-06-28,C0002,Bruno Almeida,Monitor 27,Eletrônicos,1,1519.80,5,Pix,Concluída,Sul
+PED-000929,2025-02-05,C0105,Elisa Gomes,Notebook Essential,Eletrônicos,2,2861.10,0,Pix,Concluída,Nordeste
+PED-000930,2026-08-29,C0012,Lucas Almeida,Teclado mecânico,Acessórios,2,391.02,0,Boleto,Concluída,Sul
+PED-000931,2026-02-26,C0026,Felipe Barbosa,Mesa para escritório,Móveis,1,1009.80,10,Transferência,Concluída,Centro-Oeste
+PED-000932,2026-01-24,C0054,Nicolas Costa,Cadeira ergonômica,Móveis,4,1348.30,5,Cartão,Concluída,Norte
+PED-000933,2025-06-22,C0083,Carla Ferreira,Notebook Essential,Eletrônicos,2,2890.00,0,Pix,Concluída,Sudeste
+PED-000934,2025-02-24,C0138,Sérgio Lima,Webcam Full HD,Acessórios,4,309.43,0,Transferência,Concluída,Nordeste
+PED-000935,2025-07-02,C0054,Nicolas Costa,Suporte para notebook,Acessórios,4,194.67,0,Cartão,Concluída,Norte
+PED-000936,2026-05-05,C0073,Mariana Dias,Tablet Plus,Eletrônicos,3,2161.40,15,Cartão,Concluída,Norte
+PED-000937,2025-12-27,C0090,João Ferreira,Tablet Plus,Eletrônicos,2,2161.40,0,Boleto,Concluída,Norte
+PED-000938,2025-11-18,C0120,Vinícius Gomes,Smartphone X,Eletrônicos,3,2845.80,0,Boleto,Concluída,Sul
+PED-000939,2026-03-28,C0175,Olivia Mendes,Headset Bluetooth,Acessórios,2,270.63,0,Transferência,Concluída,Nordeste
+PED-000940,2025-03-25,C0150,João Martins,Smartphone X,Eletrônicos,3,2762.10,0,Cartão,Concluída,Norte
+PED-000941,2025-03-03,C0164,Daniel Mendes,Notebook Essential,Eletrônicos,3,2861.10,15,Transferência,Concluída,Centro-Oeste
+PED-000942,2025-12-09,C0158,Sérgio Martins,Gaveteiro compacto,Móveis,4,469.00,0,Pix,Concluída,Centro-Oeste
+PED-000943,2025-12-29,C0112,Lucas Gomes,Teclado mecânico,Acessórios,4,406.98,5,Pix,Concluída,Sul
+PED-000944,2026-06-02,C0108,Hugo Gomes,Smartphone X,Eletrônicos,1,2873.70,0,Transferência,Concluída,Norte
+PED-000945,2026-04-26,C0014,Nicolas Almeida,Impressora Laser,Eletrônicos,2,1673.10,10,Transferência,Em processamento,Sudeste
+PED-000946,2025-07-31,C0105,Elisa Gomes,Notebook Pro,Eletrônicos,4,4418.70,0,Boleto,Concluída,Sudeste
+PED-000947,2025-09-23,C0094,Nicolas Ferreira,Mesa para escritório,Móveis,4,980.10,0,Boleto,Concluída,Nordeste
+PED-000948,2026-08-02,C0125,Elisa Lima,Tablet Plus,Eletrônicos,2,2140.00,0,Boleto,Concluída,Nordeste
+PED-000949,2026-04-14,C0025,Elisa Barbosa,Tablet Plus,Eletrônicos,3,2161.40,5,Cartão,Concluída,Centro-Oeste
+PED-000950,2026-06-27,C0111,Karen Gomes,Monitor 27,Eletrônicos,4,1460.20,10,Boleto,Concluída,Sudeste
+PED-000951,2025-07-23,C0030,João Barbosa,Webcam Full HD,Acessórios,2,325.38,10,Transferência,Concluída,Sudeste
+PED-000952,2026-01-17,C0114,Nicolas Gomes,Headset Bluetooth,Acessórios,4,284.58,0,Cartão,Concluída,Nordeste
+PED-000953,2026-02-24,C0091,Karen Ferreira,Notebook Pro,Eletrônicos,2,4204.20,0,Pix,Concluída,Sudeste
+PED-000954,2026-02-28,C0109,Isabela Gomes,Suporte para notebook,Acessórios,4,194.67,10,Pix,Concluída,Nordeste
+PED-000955,2025-03-04,C0141,Ana Martins,Headset Bluetooth,Acessórios,1,270.63,15,Cartão,Concluída,Nordeste
+PED-000956,2026-07-03,C0146,Felipe Martins,Tablet Plus,Eletrônicos,2,2140.00,10,Pix,Concluída,Sudeste
+PED-000957,2025-05-24,C0162,Bruno Mendes,Estante modular,Móveis,1,813.70,0,Transferência,Cancelada,Sudeste
+PED-000958,2025-08-11,C0040,Vinícius Barbosa,Monitor 27,Eletrônicos,1,1519.80,0,Cartão,Concluída,Sul
+PED-000959,2026-07-30,C0088,Hugo Ferreira,Monitor 27,Eletrônicos,4,1519.80,0,Pix,Concluída,Sudeste
+PED-000960,2025-07-24,C0125,Elisa Lima,Smartphone X,Eletrônicos,3,2873.70,0,Boleto,Concluída,Nordeste
+PED-000961,2026-09-04,C0105,Elisa Gomes,Webcam Full HD,Acessórios,2,328.57,0,Transferência,Concluída,Centro-Oeste
+PED-000962,2025-02-17,C0010,João Almeida,Estante modular,Móveis,3,782.10,15,Cartão,Em processamento,Sul
+PED-000963,2025-06-01,C0179,Tatiana Mendes,Estante modular,Móveis,3,774.20,0,Pix,Concluída,Nordeste
+PED-000964,2026-09-14,C0018,Sérgio Almeida,Gaveteiro compacto,Móveis,4,459.62,5,Boleto,Concluída,Sul
+PED-000965,2025-09-01,C0128,Hugo Lima,Tablet Plus,Eletrônicos,3,2118.60,10,Pix,Concluída,Centro-Oeste
+PED-000966,2026-02-16,C0023,Carla Barbosa,Suporte para notebook,Acessórios,2,185.22,0,Cartão,Concluída,Sudeste
+PED-000967,2025-06-13,C0158,Sérgio Martins,Notebook Pro,Eletrônicos,4,4375.80,0,Boleto,Concluída,Sul
+PED-000968,2025-07-05,C0014,Nicolas Almeida,Notebook Pro,Eletrônicos,2,4375.80,5,Transferência,Concluída,Nordeste
+PED-000969,2025-11-16,C0005,Elisa Almeida,Estante modular,Móveis,3,790.00,5,Transferência,Cancelada,Nordeste
+PED-000970,2026-08-28,C0007,Gabriela Almeida,Tablet Plus,Eletrônicos,3,2075.80,0,Transferência,Concluída,Nordeste
+PED-000971,2025-08-15,C0131,Karen Lima,Smartphone X,Eletrônicos,3,2845.80,0,Cartão,Concluída,Nordeste
+PED-000972,2025-12-12,C0033,Mariana Barbosa,Notebook Pro,Eletrônicos,2,4418.70,15,Cartão,Concluída,Centro-Oeste
+PED-000973,2026-05-19,C0065,Elisa Dias,Teclado mecânico,Acessórios,1,387.03,15,Cartão,Concluída,Sul
+PED-000974,2026-01-24,C0051,Karen Costa,Notebook Pro,Eletrônicos,1,4247.10,0,Pix,Concluída,Nordeste
+PED-000975,2025-05-30,C0156,Paulo Martins,Estante modular,Móveis,3,774.20,0,Pix,Concluída,Sul
+PED-000976,2026-02-13,C0027,Gabriela Barbosa,Monitor 27,Eletrônicos,3,1445.30,15,Cartão,Concluída,Norte
+PED-000977,2026-09-09,C0109,Isabela Gomes,Impressora Laser,Eletrônicos,3,1706.90,0,Boleto,Concluída,Sul
+PED-000978,2025-07-15,C0048,Hugo Costa,Notebook Essential,Eletrônicos,1,2976.70,5,Cartão,Concluída,Nordeste
+PED-000979,2026-02-18,C0050,João Costa,Monitor 27,Eletrônicos,4,1534.70,0,Cartão,Concluída,Sudeste
+PED-000980,2026-06-01,C0030,João Barbosa,Suporte para notebook,Acessórios,2,187.11,10,Boleto,Concluída,Norte
+PED-000981,2026-08-19,C0033,Mariana Barbosa,Estante modular,Móveis,4,766.30,0,Boleto,Concluída,Nordeste
+PED-000982,2025-05-17,C0176,Paulo Mendes,Suporte para notebook,Acessórios,1,189.00,0,Transferência,Concluída,Centro-Oeste
+PED-000983,2025-02-18,C0007,Gabriela Almeida,Gaveteiro compacto,Móveis,3,459.62,0,Boleto,Concluída,Centro-Oeste
+PED-000984,2026-01-11,C0073,Mariana Dias,Mesa para escritório,Móveis,4,980.10,10,Cartão,Concluída,Norte
+PED-000985,2025-03-10,C0017,Renata Almeida,Estante modular,Móveis,3,774.20,10,Cartão,Concluída,Sul
+PED-000986,2025-07-11,C0076,Paulo Dias,Monitor 27,Eletrônicos,1,1519.80,5,Pix,Concluída,Norte
+PED-000987,2025-11-15,C0070,João Dias,Cadeira ergonômica,Móveis,2,1348.30,0,Pix,Concluída,Sul
+PED-000988,2025-08-21,C0079,Tatiana Dias,Suporte para notebook,Acessórios,3,190.89,0,Cartão,Concluída,Centro-Oeste
+PED-000989,2026-03-19,C0030,João Barbosa,Estante modular,Móveis,4,813.70,5,Pix,Concluída,Centro-Oeste
+PED-000990,2025-11-25,C0045,Elisa Costa,Tablet Plus,Eletrônicos,4,2097.20,0,Pix,Concluída,Centro-Oeste
+PED-000991,2025-10-13,C0026,Felipe Barbosa,Notebook Essential,Eletrônicos,2,2890.00,10,Cartão,Concluída,Sudeste
+PED-000992,2025-05-21,C0106,Felipe Gomes,Mesa para escritório,Móveis,4,960.30,15,Transferência,Concluída,Sul
+PED-000993,2026-08-31,C0004,Daniel Almeida,Mouse sem fio,Acessórios,3,129.00,15,Pix,Concluída,Centro-Oeste
+PED-000994,2025-04-03,C0022,Bruno Barbosa,Teclado mecânico,Acessórios,3,387.03,5,Pix,Cancelada,Sudeste
+PED-000995,2026-04-02,C0047,Gabriela Costa,Monitor 27,Eletrônicos,2,1445.30,0,Cartão,Concluída,Centro-Oeste
+PED-000996,2026-06-28,C0106,Felipe Gomes,Estante modular,Móveis,3,813.70,15,Pix,Pendente,Norte
+PED-000997,2025-04-04,C0158,Sérgio Martins,Notebook Pro,Eletrônicos,3,4375.80,5,Cartão,Concluída,Norte
+PED-000998,2026-05-08,C0155,Olivia Martins,Estante modular,Móveis,3,774.20,10,Pix,Cancelada,Sudeste
+PED-000999,2025-10-18,C0097,Renata Ferreira,Impressora Laser,Eletrônicos,4,1673.10,0,Cartão,Concluída,Nordeste
+PED-001000,2026-06-29,C0153,Mariana Martins,Estante modular,Móveis,1,797.90,5,Boleto,Em processamento,Sudeste
